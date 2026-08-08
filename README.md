@@ -41,7 +41,7 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 <table>
 <thead>
 <tr>
-<th align="center" width="26%">Project</th>
+<th align="center" width="34%">Project</th>
 <th align="center">⭐ Stars</th>
 <th align="center">🍴 Forks</th>
 <th align="center">📦 Installs</th>
