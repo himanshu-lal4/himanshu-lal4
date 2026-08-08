@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Wrack</h1>
 
 <p align="center">
-  <b>SOFTWARE ENGINEER &nbsp;·&nbsp; MOBILE &amp; WEB APPS &nbsp;·&nbsp; REACT NATIVE &nbsp;·&nbsp; OPEN SOURCE</b>
+  <b>SOFTWARE ENGINEER &nbsp;·&nbsp; MOBILE &amp; WEB APPS &nbsp;·&nbsp; REACT NATIVE (SWIFT, KOTLIN) &nbsp;·&nbsp; OPEN SOURCE</b>
 </p>
 
 <p align="center">
