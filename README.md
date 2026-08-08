@@ -27,12 +27,6 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 - 💡 Always open to **new ideas worth building** — [let's connect](mailto:himanshulal56@gmail.com)
 - 🌱 Contributors welcome on my libraries — roadmaps and `good first issue` labels are live on [tour-guide](https://github.com/himanshu-lal4/react-native-tour-guide/issues/9) and [liquid-glassmorphism](https://github.com/himanshu-lal4/react-native-liquid-glassmorphism/issues/23)
 
-<p align="center">
-  <a href="https://github.com/sponsors/himanshu-lal4"><img src="https://img.shields.io/badge/Sponsor_my_work-21262D?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" alt="Sponsor"></a>
-  <br>
-  <sub>If my work saves you time, sponsoring keeps it maintained.</sub>
-</p>
-
 ---
 
 ### Profiles
@@ -60,6 +54,18 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
   <a href="https://www.instagram.com/himanshu__lal"><img src="https://cdn.simpleicons.org/instagram/8B949E" width="30" height="30" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.reddit.com/user/wrack_04"><img src="https://cdn.simpleicons.org/reddit/8B949E" width="30" height="30" alt="Reddit"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:himanshulal56@gmail.com"><img src="https://cdn.simpleicons.org/gmail/8B949E" width="30" height="30" alt="Email"></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+---
+
+### Support
+
+<p align="center">
+  <a href="https://github.com/sponsors/himanshu-lal4"><img src="https://img.shields.io/badge/GitHub_Sponsors-21262D?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
+</p>
+
+<p align="center">
+  <sub>If my work saves you time, supporting it keeps it maintained.</sub>
 </p>
 
 ---
