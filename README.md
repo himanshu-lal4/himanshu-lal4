@@ -5,11 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://wrack.dev"><img src="https://img.shields.io/badge/Portfolio-wrack.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/himanshulal4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.npmjs.com/~wrack"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
-  <a href="https://dev.to/wrack"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
-  <a href="mailto:himanshulal56@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wrack.dev"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/himanshulal4"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+  <a href="https://www.npmjs.com/~wrack"><img src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837" alt="npm"></a>
+  <a href="https://peerlist.io/wrack"><img src="https://img.shields.io/badge/Peerlist-0D1117?style=for-the-badge&logo=peerlist&logoColor=00AA45" alt="Peerlist"></a>
+  <a href="https://dev.to/wrack"><img src="https://img.shields.io/badge/dev.to-0D1117?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
+  <a href="https://wrack.dev/resume"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"></a>
+  <a href="mailto:himanshulal56@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
 </p>
 
 ---
@@ -30,36 +32,36 @@ I build React Native apps, and the open-source libraries that go inside them.
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Swift](https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=F05138)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
 **Mobile & Web**
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC)
 
 **Backend & Data**
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=DD2C00)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098)
 
 **Testing, CI/CD & Tooling**
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Detox](https://img.shields.io/badge/Detox-2E2E2E?style=for-the-badge&logo=testcafe&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325)
+![Detox](https://img.shields.io/badge/Detox-0D1117?style=for-the-badge&logo=testcafe&logoColor=36B6C8)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Fastlane](https://img.shields.io/badge/Fastlane-0D1117?style=for-the-badge&logo=fastlane&logoColor=00F200)
+![Sentry](https://img.shields.io/badge/Sentry-0D1117?style=for-the-badge&logo=sentry&logoColor=8C5393)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ---
 
@@ -67,10 +69,10 @@ I build React Native apps, and the open-source libraries that go inside them.
 
 <table>
 <tr>
-<td align="center" width="25%"><img src="assets/tour-guide-ios-poster.jpg" width="150"><br><sub><b>Tour Guide · iOS</b></sub></td>
-<td align="center" width="25%"><img src="assets/tour-guide-android-poster.jpg" width="150"><br><sub><b>Tour Guide · Android</b></sub></td>
-<td align="center" width="25%"><img src="assets/liquid-glass-ios-poster.jpg" width="150"><br><sub><b>Liquid Glass · iOS</b></sub></td>
-<td align="center" width="25%"><img src="assets/liquid-glass-android-poster.jpg" width="150"><br><sub><b>Liquid Glass · Android</b></sub></td>
+<td align="center" width="25%"><img src="assets/tour-guide-ios-poster.png" width="150"><br><sub><b>Tour Guide · iOS</b></sub></td>
+<td align="center" width="25%"><img src="assets/tour-guide-android-poster.png" width="150"><br><sub><b>Tour Guide · Android</b></sub></td>
+<td align="center" width="25%"><img src="assets/liquid-glass-ios-poster.png" width="150"><br><sub><b>Liquid Glass · iOS</b></sub></td>
+<td align="center" width="25%"><img src="assets/liquid-glass-android-poster.png" width="150"><br><sub><b>Liquid Glass · Android</b></sub></td>
 </tr>
 </table>
 
@@ -88,8 +90,8 @@ I build React Native apps, and the open-source libraries that go inside them.
 
 Spotlight onboarding, walkthroughs and coach marks. Auto shape-matching SVG masks, smart auto-scroll, themeable tooltips. Zero native dependencies.
 
-[![npm](https://img.shields.io/npm/dm/@wrack/react-native-tour-guide?style=flat-square&label=downloads&labelColor=0d1117&color=2f81f7)](https://www.npmjs.com/package/@wrack/react-native-tour-guide)
-[![stars](https://img.shields.io/github/stars/himanshu-lal4/react-native-tour-guide?style=flat-square&labelColor=0d1117&color=2f81f7)](https://github.com/himanshu-lal4/react-native-tour-guide)
+[![npm](https://img.shields.io/npm/dm/@wrack/react-native-tour-guide?style=flat-square&label=downloads&labelColor=0D1117&color=2F81F7)](https://www.npmjs.com/package/@wrack/react-native-tour-guide)
+[![stars](https://img.shields.io/github/stars/himanshu-lal4/react-native-tour-guide?style=flat-square&labelColor=0D1117&color=2F81F7)](https://github.com/himanshu-lal4/react-native-tour-guide)
 
 </td>
 <td width="50%" valign="top">
@@ -100,8 +102,8 @@ Spotlight onboarding, walkthroughs and coach marks. Auto shape-matching SVG mask
 
 Liquid glass on both platforms. `UIGlassEffect` on iOS, hand-written AGSL refraction shaders on Android. New Architecture ready.
 
-[![npm](https://img.shields.io/npm/dm/react-native-liquid-glassmorphism?style=flat-square&label=downloads&labelColor=0d1117&color=2f81f7)](https://www.npmjs.com/package/react-native-liquid-glassmorphism)
-[![stars](https://img.shields.io/github/stars/himanshu-lal4/react-native-liquid-glassmorphism?style=flat-square&labelColor=0d1117&color=2f81f7)](https://github.com/himanshu-lal4/react-native-liquid-glassmorphism)
+[![npm](https://img.shields.io/npm/dm/react-native-liquid-glassmorphism?style=flat-square&label=downloads&labelColor=0D1117&color=2F81F7)](https://www.npmjs.com/package/react-native-liquid-glassmorphism)
+[![stars](https://img.shields.io/github/stars/himanshu-lal4/react-native-liquid-glassmorphism?style=flat-square&labelColor=0D1117&color=2F81F7)](https://github.com/himanshu-lal4/react-native-liquid-glassmorphism)
 
 </td>
 </tr>
@@ -112,8 +114,8 @@ Liquid glass on both platforms. `UIGlassEffect` on iOS, hand-written AGSL refrac
 
 An app that fixes your sleep–wake cycle using what sleep science says actually works. Escape-resistant wake-up missions, bedtime app blocking, sleep-debt tracking. Built solo — product, app, backend, launch.
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.snoozewar.app)
-[![Website](https://img.shields.io/badge/snoozewar.com-0d1117?style=flat-square&logo=safari&logoColor=white)](https://snoozewar.com)
+[![Play Store](https://img.shields.io/badge/Google_Play-0D1117?style=flat-square&logo=googleplay&logoColor=FFFFFF)](https://play.google.com/store/apps/details?id=com.snoozewar.app)
+[![Website](https://img.shields.io/badge/snoozewar.com-0D1117?style=flat-square&logo=safari&logoColor=FFFFFF)](https://snoozewar.com)
 
 </td>
 <td width="50%" valign="top">
@@ -122,7 +124,7 @@ An app that fixes your sleep–wake cycle using what sleep science says actually
 
 Figma plugin that scores a file's AI-readiness 0–100 and fixes detached styles and token drift, so code generation from Figma actually works.
 
-[![Figma](https://img.shields.io/badge/Figma_Community-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor)
+[![Figma](https://img.shields.io/badge/Figma_Community-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)](https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor)
 
 </td>
 </tr>
