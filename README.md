@@ -91,27 +91,27 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu-lal4&theme=github_dark">
-    <img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu-lal4&theme=github" alt="profile-details">
+    <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu-lal4&theme=github" alt="profile-details">
   </picture>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-lal4&bg_color=00000000&color=8b949e&line=2f81f7&point=2f81f7&area=true&hide_border=true" alt="activity graph">
-</p>
-
-<p align="center">
-  <img width="58%" src="https://streak-stats.demolab.com/?user=himanshu-lal4&hide_border=true&background=00000000&stroke=30363d&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=8b949e&dates=8b949e&sideNums=8b949e&currStreakNum=8b949e&excludeDaysLabel=8b949e" alt="streak">
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshu-lal4&theme=github_dark">
-    <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshu-lal4&theme=github" alt="stats">
+    <img width="346" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshu-lal4&theme=github" alt="stats">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshu-lal4&theme=github_dark&utcOffset=5.5">
-    <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshu-lal4&theme=github&utcOffset=5.5" alt="productive-time">
+    <img width="346" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshu-lal4&theme=github&utcOffset=5.5" alt="productive-time">
   </picture>
+</p>
+
+<p align="center">
+  <img width="700" src="https://streak-stats.demolab.com/?user=himanshu-lal4&hide_border=true&background=00000000&stroke=30363d&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=8b949e&dates=8b949e&sideNums=8b949e&currStreakNum=8b949e&excludeDaysLabel=8b949e" alt="streak">
+</p>
+
+<p align="center">
+  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-lal4&bg_color=00000000&color=8b949e&line=2f81f7&point=2f81f7&area=true&hide_border=true" alt="activity graph">
 </p>
 
 ---
