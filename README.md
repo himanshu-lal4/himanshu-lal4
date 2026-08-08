@@ -28,6 +28,8 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 - 📦 My libraries are installed **~7,000 times a month** on npm
 - 🛡️ Wrote **80+ pre-commit and post-commit rules** that gate every PR through CI
 - ✍️ I write about **AGSL shaders and React Native internals** on [dev.to](https://dev.to/wrack)
+- 🤝 Open to collaborating on **React Native** and open-source projects
+- 🌱 Contributors welcome on my libraries — roadmaps and `good first issue` labels are live on [tour-guide](https://github.com/himanshu-lal4/react-native-tour-guide/issues/9) and [liquid-glassmorphism](https://github.com/himanshu-lal4/react-native-liquid-glassmorphism/issues/23)
 
 ---
 
