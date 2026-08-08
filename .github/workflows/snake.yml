@@ -1,0 +1,38 @@
+name: Contribution snake
+
+on:
+  schedule:
+    - cron: '33 3 * * *'   # daily, 03:33 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/snake.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake-dark.svg?palette=github-dark&color_snake=#2F81F7
+            assets/snake-light.svg?palette=github-light&color_snake=#0969DA
+
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain assets)" ]]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/snake-*.svg
+            git commit -m "Refresh contribution snake"
+            git push
+          else
+            echo "no change"
+          fi
