@@ -38,15 +38,15 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 </picture>
 
 <p align="center">
-  <a href="https://wrack.dev"><img src="assets/globe.svg" width="30" height="30" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://wrack.dev/resume"><img src="https://cdn.simpleicons.org/readdotcv/8B949E" width="30" height="30" alt="Resume"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.npmjs.com/~wrack"><img src="https://cdn.simpleicons.org/npm/8B949E" width="30" height="30" alt="npm"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://peerlist.io/wrack"><img src="https://cdn.simpleicons.org/peerlist/8B949E" width="30" height="30" alt="Peerlist"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/wrack"><img src="https://cdn.simpleicons.org/devdotto/8B949E" width="30" height="30" alt="dev.to"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@himanshulal56"><img src="https://cdn.simpleicons.org/medium/8B949E" width="30" height="30" alt="Medium"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Himanshu_lal/"><img src="https://cdn.simpleicons.org/leetcode/8B949E" width="30" height="30" alt="LeetCode"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/himanshu_lal"><img src="https://cdn.simpleicons.org/codechef/8B949E" width="30" height="30" alt="CodeChef"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/himanshu_lal"><img src="https://cdn.simpleicons.org/hackerrank/8B949E" width="30" height="30" alt="HackerRank"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wrack.dev"><img src="assets/globe.svg" width="30" height="30" alt="Portfolio" title="wrack.dev — portfolio, projects and writing"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wrack.dev/resume"><img src="https://cdn.simpleicons.org/readdotcv/8B949E" width="30" height="30" alt="Resume" title="Resume — wrack.dev/resume"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.npmjs.com/~wrack"><img src="https://cdn.simpleicons.org/npm/8B949E" width="30" height="30" alt="npm" title="npm — published packages (@wrack)"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://peerlist.io/wrack"><img src="https://cdn.simpleicons.org/peerlist/8B949E" width="30" height="30" alt="Peerlist" title="Peerlist — peerlist.io/wrack"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/wrack"><img src="https://cdn.simpleicons.org/devdotto/8B949E" width="30" height="30" alt="dev.to" title="dev.to — articles on RN internals and native shaders"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@himanshulal56"><img src="https://cdn.simpleicons.org/medium/8B949E" width="30" height="30" alt="Medium" title="Medium — @himanshulal56"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Himanshu_lal/"><img src="https://cdn.simpleicons.org/leetcode/8B949E" width="30" height="30" alt="LeetCode" title="LeetCode — Himanshu_lal"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/himanshu_lal"><img src="https://cdn.simpleicons.org/codechef/8B949E" width="30" height="30" alt="CodeChef" title="CodeChef — himanshu_lal"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/himanshu_lal"><img src="https://cdn.simpleicons.org/hackerrank/8B949E" width="30" height="30" alt="HackerRank" title="HackerRank — himanshu_lal"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -57,12 +57,12 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 </picture>
 
 <p align="center">
-  <a href="https://linkedin.com/in/himanshulal4"><img src="assets/linkedin.svg" width="30" height="30" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Himanshu_lal4"><img src="https://cdn.simpleicons.org/x/8B949E" width="30" height="30" alt="X"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.threads.com/@himanshu__lal"><img src="https://cdn.simpleicons.org/threads/8B949E" width="30" height="30" alt="Threads"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/himanshu__lal"><img src="https://cdn.simpleicons.org/instagram/8B949E" width="30" height="30" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/wrack_04"><img src="https://cdn.simpleicons.org/reddit/8B949E" width="30" height="30" alt="Reddit"></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:himanshulal56@gmail.com"><img src="https://cdn.simpleicons.org/gmail/8B949E" width="30" height="30" alt="Email"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/himanshulal4"><img src="assets/linkedin.svg" width="30" height="30" alt="LinkedIn" title="LinkedIn — in/himanshulal4"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Himanshu_lal4"><img src="https://cdn.simpleicons.org/x/8B949E" width="30" height="30" alt="X" title="X — @Himanshu_lal4"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.threads.com/@himanshu__lal"><img src="https://cdn.simpleicons.org/threads/8B949E" width="30" height="30" alt="Threads" title="Threads — @himanshu__lal"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/himanshu__lal"><img src="https://cdn.simpleicons.org/instagram/8B949E" width="30" height="30" alt="Instagram" title="Instagram — @himanshu__lal"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/wrack_04"><img src="https://cdn.simpleicons.org/reddit/8B949E" width="30" height="30" alt="Reddit" title="Reddit — u/wrack_04"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:himanshulal56@gmail.com"><img src="https://cdn.simpleicons.org/gmail/8B949E" width="30" height="30" alt="Email" title="himanshulal56@gmail.com"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -208,27 +208,27 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 <tbody>
 <tr>
 <td align="left"><b>Languages</b></td>
-<td align="left"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=5AA9EE" alt=""> <img src="https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=F05138" alt=""> <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=A88BE3" alt=""> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=""> <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt=""></td>
+<td align="left"><a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=5AA9EE" alt=""></a> <a href="https://www.swift.org/" title="Swift"><img src="https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=F05138" alt=""></a> <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=A88BE3" alt=""></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=""></a> <a href="https://openjdk.org/" title="Java"><img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt=""></a></td>
 </tr>
 <tr>
 <td align="left"><b>Mobile &amp; Web</b></td>
-<td align="left"><img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""> <img src="https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=FFFFFF" alt=""> <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""> <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt=""> <img src="https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=A88BE3" alt=""></td>
+<td align="left"><a href="https://reactnative.dev/" title="React Native"><img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""></a> <a href="https://expo.dev/" title="Expo"><img src="https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=FFFFFF" alt=""></a> <a href="https://react.dev/" title="React"><img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""></a> <a href="https://nextjs.org/" title="Next.js"><img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt=""></a> <a href="https://redux-toolkit.js.org/" title="Redux Toolkit"><img src="https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=A88BE3" alt=""></a></td>
 </tr>
 <tr>
 <td align="left"><b>Backend &amp; Data</b></td>
-<td align="left"><img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt=""> <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FF7043" alt=""> <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt=""> <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" alt=""> <img src="https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098" alt=""> <img src="https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF" alt=""></td>
+<td align="left"><a href="https://nodejs.org/" title="Node.js"><img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt=""></a> <a href="https://firebase.google.com/" title="Firebase"><img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FF7043" alt=""></a> <a href="https://supabase.com/" title="Supabase"><img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt=""></a> <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" alt=""></a> <a href="https://graphql.org/" title="GraphQL"><img src="https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098" alt=""></a> <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" title="WebSockets"><img src="https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF" alt=""></a></td>
 </tr>
 <tr>
 <td align="left"><b>Testing &amp; Quality</b></td>
-<td align="left"><img src="https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=F0554A" alt=""> <img src="https://img.shields.io/badge/Detox-0D1117?style=for-the-badge&logo=testcafe&logoColor=36B6C8" alt=""> <img src="https://img.shields.io/badge/Testing_Library-0D1117?style=for-the-badge&logo=testinglibrary&logoColor=F0554A" alt=""> <img src="https://img.shields.io/badge/ESLint-0D1117?style=for-the-badge&logo=eslint&logoColor=9B8BEF" alt=""></td>
+<td align="left"><a href="https://jestjs.io/" title="Jest"><img src="https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=F0554A" alt=""></a> <a href="https://wix.github.io/Detox/" title="Detox"><img src="https://img.shields.io/badge/Detox-0D1117?style=for-the-badge&logo=testcafe&logoColor=36B6C8" alt=""></a> <a href="https://testing-library.com/docs/react-native-testing-library/intro/" title="React Native Testing Library"><img src="https://img.shields.io/badge/Testing_Library-0D1117?style=for-the-badge&logo=testinglibrary&logoColor=F0554A" alt=""></a> <a href="https://eslint.org/" title="ESLint"><img src="https://img.shields.io/badge/ESLint-0D1117?style=for-the-badge&logo=eslint&logoColor=9B8BEF" alt=""></a></td>
 </tr>
 <tr>
 <td align="left"><b>Release &amp; Monitoring</b></td>
-<td align="left"><img src="https://img.shields.io/badge/App_Store_Connect-0D1117?style=for-the-badge&logo=appstore&logoColor=0D96F6" alt=""> <img src="https://img.shields.io/badge/Play_Console-0D1117?style=for-the-badge&logo=googleplay&logoColor=5CD65C" alt=""> <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt=""> <img src="https://img.shields.io/badge/Xcode_Cloud-0D1117?style=for-the-badge&logo=xcode&logoColor=1575F9" alt=""> <img src="https://img.shields.io/badge/Fastlane-0D1117?style=for-the-badge&logo=fastlane&logoColor=00F200" alt=""> <img src="https://img.shields.io/badge/Sentry-0D1117?style=for-the-badge&logo=sentry&logoColor=C08FD1" alt=""> <img src="https://img.shields.io/badge/Mixpanel-0D1117?style=for-the-badge&logo=mixpanel&logoColor=A78BFA" alt=""></td>
+<td align="left"><a href="https://appstoreconnect.apple.com/" title="App Store Connect"><img src="https://img.shields.io/badge/App_Store_Connect-0D1117?style=for-the-badge&logo=appstore&logoColor=0D96F6" alt=""></a> <a href="https://play.google.com/console/" title="Google Play Console"><img src="https://img.shields.io/badge/Play_Console-0D1117?style=for-the-badge&logo=googleplay&logoColor=5CD65C" alt=""></a> <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt=""></a> <a href="https://developer.apple.com/xcode-cloud/" title="Xcode Cloud"><img src="https://img.shields.io/badge/Xcode_Cloud-0D1117?style=for-the-badge&logo=xcode&logoColor=1575F9" alt=""></a> <a href="https://fastlane.tools/" title="Fastlane"><img src="https://img.shields.io/badge/Fastlane-0D1117?style=for-the-badge&logo=fastlane&logoColor=00F200" alt=""></a> <a href="https://sentry.io/" title="Sentry"><img src="https://img.shields.io/badge/Sentry-0D1117?style=for-the-badge&logo=sentry&logoColor=C08FD1" alt=""></a> <a href="https://mixpanel.com/" title="Mixpanel"><img src="https://img.shields.io/badge/Mixpanel-0D1117?style=for-the-badge&logo=mixpanel&logoColor=A78BFA" alt=""></a></td>
 </tr>
 <tr>
 <td align="left"><b>AI &amp; Design</b></td>
-<td align="left"><img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757" alt=""> <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=FFFFFF" alt=""> <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt=""></td>
+<td align="left"><a href="https://claude.com/" title="Claude"><img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757" alt=""></a> <a href="https://modelcontextprotocol.io/" title="Model Context Protocol"><img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=FFFFFF" alt=""></a> <a href="https://www.figma.com/" title="Figma"><img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt=""></a></td>
 </tr>
 </tbody>
 </table>
