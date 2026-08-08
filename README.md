@@ -1,4 +1,9 @@
-<h1 align="center">Hey 👋, I'm Wrack</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/typewriter.svg">
+    <img src="assets/sections/typewriter.svg" alt="Hey, I'm Wrack — Himanshu Lal" width="520">
+  </picture>
+</p>
 
 <p align="center">
   <b>SOFTWARE ENGINEER &nbsp;·&nbsp; MOBILE &amp; WEB APPS &nbsp;·&nbsp; REACT NATIVE (SWIFT, KOTLIN) &nbsp;·&nbsp; OPEN SOURCE</b>
