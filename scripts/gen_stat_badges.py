@@ -64,7 +64,10 @@ def human(n):
 
 
 def badge(icon, label, value, bg, label_fg, accent, accent_fg):
-    lw = 42 + int(len(label) * 7.6)
+    """Label first, then icon, then the value block."""
+    text_w = int(len(label) * 7.6)
+    icon_x = 12 + text_w + 8
+    lw = icon_x + 14 + 12
     vw = 24 + len(value) * 9
     w = lw + vw
     return (
@@ -73,9 +76,10 @@ def badge(icon, label, value, bg, label_fg, accent, accent_fg):
         f'  <title>{label}: {value}</title>\n'
         f'  <rect width="{lw}" height="28" fill="{bg}"/>\n'
         f'  <rect x="{lw}" width="{vw}" height="28" fill="{accent}"/>\n'
-        f'  <g transform="translate(11,7) scale(0.583)" fill="{label_fg}"><path d="{icon}"/></g>\n'
-        f'  <text x="33" y="18" fill="{label_fg}" font-family="{FONT}" font-size="10" '
+        f'  <text x="12" y="18" fill="{label_fg}" font-family="{FONT}" font-size="10" '
         f'font-weight="bold" letter-spacing="1.1">{label}</text>\n'
+        f'  <g transform="translate({icon_x},7) scale(0.583)" fill="{label_fg}">'
+        f'<path d="{icon}"/></g>\n'
         f'  <text x="{lw + vw / 2}" y="18" fill="{accent_fg}" font-family="{FONT}" '
         f'font-size="11" font-weight="bold" text-anchor="middle">{value}</text>\n'
         f'</svg>\n'

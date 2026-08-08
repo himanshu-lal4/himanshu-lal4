@@ -93,8 +93,8 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 </p>
 
 <p align="center">
-  <a href="https://github.com/himanshu-lal4?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/stars-dark.svg"><img src="assets/badges/stars-light.svg" alt="GitHub stars"></picture></a>
   <a href="https://www.npmjs.com/~wrack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/installs-dark.svg"><img src="assets/badges/installs-light.svg" alt="npm installs"></picture></a>
+  <a href="https://github.com/himanshu-lal4?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/stars-dark.svg"><img src="assets/badges/stars-light.svg" alt="GitHub stars"></picture></a>
 </p>
 
 <p align="center">
