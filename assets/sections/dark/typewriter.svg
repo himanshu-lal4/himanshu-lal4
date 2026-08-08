@@ -1,38 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="64" viewBox="0 0 520 64" role="img" aria-label="Hey, I'm Wrack — Himanshu Lal">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="60" viewBox="0 0 520 60" role="img" aria-label="Hey, I'm Wrack — Himanshu Lal">
   <title>Hey, I'm Wrack — Himanshu Lal</title>
   <style>
     @keyframes reveal0 {
       0%,0.00% { transform: scaleX(0); }
-      11.00%,40.00% { transform: scaleX(1); }
+      12.00%,40.00% { transform: scaleX(1); }
       47.00%,100% { transform: scaleX(0); }
     }
     @keyframes caret0 {
       0%,0.00% { transform: translateX(0); opacity: 1; }
-      11.00%,40.00% { transform: translateX(156.0px); opacity: 1; }
+      12.00%,40.00% { transform: translateX(78.0px); opacity: 1; }
       47.00% { transform: translateX(0); opacity: 1; }
       47.01%,100% { transform: translateX(0); opacity: 0; }
     }
-    #clip0 rect { transform-origin: 0 0; animation: reveal0 9s steps(10) infinite; }
-    #caret0 { animation: caret0 9s steps(10) infinite; }
+    #c0 rect { transform-origin: 140.4px 0; animation: reveal0 8s steps(5) infinite; }
+    #k0 { animation: caret0 8s steps(5) infinite; }
     @keyframes reveal1 {
       0%,50.00% { transform: scaleX(0); }
-      61.00%,90.00% { transform: scaleX(1); }
+      62.00%,90.00% { transform: scaleX(1); }
       97.00%,100% { transform: scaleX(0); }
     }
     @keyframes caret1 {
       0%,50.00% { transform: translateX(0); opacity: 1; }
-      61.00%,90.00% { transform: translateX(202.8px); opacity: 1; }
+      62.00%,90.00% { transform: translateX(124.8px); opacity: 1; }
       97.00% { transform: translateX(0); opacity: 1; }
       97.01%,100% { transform: translateX(0); opacity: 0; }
     }
-    #clip1 rect { transform-origin: 0 0; animation: reveal1 9s steps(13) infinite; }
-    #caret1 { animation: caret1 9s steps(13) infinite; }
-    @keyframes blink { 0%,49% { opacity:1 } 50%,100% { opacity:0 } }
-  </style>
-  <clipPath id="clip0"><rect x="0" y="0" width="156.0" height="64"/></clipPath>
-  <text x="0" y="42" clip-path="url(#clip0)" fill="#E6EDF3" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="600">I'm Wrack.</text>
-  <rect id="caret0" x="0" y="20" width="2.5" height="28" fill="#2F81F7"/>
-  <clipPath id="clip1"><rect x="0" y="0" width="202.8" height="64"/></clipPath>
-  <text x="0" y="42" clip-path="url(#clip1)" fill="#E6EDF3" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="600">I'm Himanshu.</text>
-  <rect id="caret1" x="0" y="20" width="2.5" height="28" fill="#2F81F7"/>
+    #c1 rect { transform-origin: 140.4px 0; animation: reveal1 8s steps(8) infinite; }
+    #k1 { animation: caret1 8s steps(8) infinite; }</style>
+  <text x="0" y="40" fill="#E6EDF3" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="500">Hey, I'm </text>
+  <clipPath id="c0"><rect x="140.4" y="0" width="78.0" height="60"/></clipPath>
+  <text x="140.4" y="40" clip-path="url(#c0)" fill="#2F81F7" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="700">Wrack</text>
+  <rect id="k0" x="140.4" y="17" width="2.5" height="28" fill="#2F81F7"/>
+  <clipPath id="c1"><rect x="140.4" y="0" width="124.8" height="60"/></clipPath>
+  <text x="140.4" y="40" clip-path="url(#c1)" fill="#2F81F7" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="700">Himanshu</text>
+  <rect id="k1" x="140.4" y="17" width="2.5" height="28" fill="#2F81F7"/>
 </svg>
