@@ -47,7 +47,7 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
   <a href="https://www.npmjs.com/~wrack"><img src="https://cdn.simpleicons.org/npm/8B949E" width="30" height="30" alt="npm"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://peerlist.io/wrack"><img src="https://cdn.simpleicons.org/peerlist/8B949E" width="30" height="30" alt="Peerlist"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/wrack"><img src="https://cdn.simpleicons.org/devdotto/8B949E" width="30" height="30" alt="dev.to"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/@wrack"><img src="https://cdn.simpleicons.org/figma/8B949E" width="30" height="30" alt="Figma"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@himanshulal56"><img src="https://cdn.simpleicons.org/medium/8B949E" width="30" height="30" alt="Medium"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Himanshu_lal/"><img src="https://cdn.simpleicons.org/leetcode/8B949E" width="30" height="30" alt="LeetCode"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/himanshu_lal"><img src="https://cdn.simpleicons.org/codechef/8B949E" width="30" height="30" alt="CodeChef"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/himanshu_lal"><img src="https://cdn.simpleicons.org/hackerrank/8B949E" width="30" height="30" alt="HackerRank"></a>&nbsp;&nbsp;&nbsp;
