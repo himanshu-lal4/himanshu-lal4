@@ -25,11 +25,6 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 - 🤣 I'm currently learning **everything**
 - 🤝 Open to collaborating on **open-source projects**
 - 💡 Always open to **new ideas worth building**
-- 🚀 Shipped **40+ releases** across iOS and Android, and own both store pipelines
-- ⚙️ Led a **React Native 0.68 → 0.80** upgrade, migrating native modules from Java and Objective-C to **Kotlin and Swift**
-- 📦 My libraries are installed **~7,000 times a month** on npm
-- 🛡️ Wrote **80+ pre-commit and post-commit rules** that gate every PR through CI
-- ✍️ I write about **AGSL shaders and React Native internals** on [dev.to](https://dev.to/wrack)
 - 🌱 Contributors welcome on my libraries — roadmaps and `good first issue` labels are live on [tour-guide](https://github.com/himanshu-lal4/react-native-tour-guide/issues/9) and [liquid-glassmorphism](https://github.com/himanshu-lal4/react-native-liquid-glassmorphism/issues/23)
 
 ---
