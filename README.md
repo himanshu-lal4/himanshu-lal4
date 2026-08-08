@@ -143,5 +143,5 @@ Figma plugin that scores a file's AI-readiness 0–100 and fixes detached styles
 ---
 
 <p align="center">
-  <sub>Noida, India · <a href="https://wrack.dev">wrack.dev</a></sub>
+  <sub><a href="https://wrack.dev">wrack.dev</a></sub>
 </p>
