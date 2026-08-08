@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Wrack</h1>
 
 <p align="center">
-  Himanshu Lal &nbsp;·&nbsp; <b>Mobile Engineer</b> &nbsp;·&nbsp; React Native, Swift, Kotlin &nbsp;·&nbsp; Noida, India
+  <b>SOFTWARE ENGINEER &nbsp;·&nbsp; MOBILE &amp; WEB APPS &nbsp;·&nbsp; REACT NATIVE &nbsp;·&nbsp; OPEN SOURCE</b>
 </p>
 
 <p align="center">
