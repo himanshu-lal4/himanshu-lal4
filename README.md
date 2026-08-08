@@ -119,6 +119,13 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
   <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-lal4&bg_color=00000000&color=8b949e&line=2f81f7&point=2f81f7&area=true&hide_border=true" alt="activity graph">
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
+    <img width="700" src="assets/snake-light.svg" alt="contribution snake" title="Snake eating my contribution grid — regenerated daily">
+  </picture>
+</p>
+
 ---
 
 <picture>
