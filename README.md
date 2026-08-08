@@ -5,18 +5,21 @@
 </p>
 
 <p align="center">
-  <a href="https://wrack.dev"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAIZklEQVR42q2Xe2xUVR7HP%2Bece%2B%2B0nU471J2%2BpIXWHbpk1xcqCqtCKogCqSZG0X98%2FOEfvv7AmNXsBkESFtwYjCQkJPsXCWqihChEwAIS6rNIpSKFgih90E7f1M6003ncc%2FaPe2e2uhpddZKb3Jxz5%2Fxe39%2FvfL8CYD3Il0BvggoLnhXQ5EIDIPh9fkbBOQN7s7D1HzCYsylyL%2F%2BEOx34twW1GcD9HawKITDGAKAAG8hCTxoe%2Fzs0rwcpAF6GO4rgcAbIeLal%2BI3RCyFwjcEuKECn02itDaBtUDYwBcuehyNiE0QC0K6gKgNagjK%2FMXIpJWmtCdfUEK6vp7ulBQvAGDS4NkgXYim4TjrwXCFUZ0ErUAKQv%2BFRUpLVmtLqaq59%2FHGGv%2FoKZQzCB5QClQVdCNUOPCcV3O%2BCsUDkPvq1j5ISrTUFoRBLt2xh8LPPmBobw5YSMcMJC4TrAfN%2BS0Kd9jZEruhCSg%2B6Wv%2FymvuRF4TD3LFtG6l4nG%2F276dQKTAGKQSYfHGl9jJWJwWYnGdSCATgao2rNbly%2FFzk0o%2B8qKyM2zdvJhyN0rlzp4di18XVGuM78YPzjCVnoN01BiUls%2BrrMVoz2d9Pdnoa%2BTORZ7Sm6IorWLB2LWUNDfQePszgiRPYQuAEgxRVVZGOx0kMDOSxkvu7JfyW0cZQOns28x97jIqbbsIOhWh55hmGT5%2FG8iP8qbSHKitZ8OyzhGprSfT18fXrryO0RgM1y5dzzVNPobNZepub%2BXL7dkwqlZ8RajVskFKSNYZrn36aP953H6d37KBr%2F34S337rfQzfA1Eu7VmtCVVVcfO6dZRGoxRGIvS%2B%2Fz5dBw7g2LZXzqkphtrbCUYiRNesYay9ncvd3Vg%2BMK3c4RZQXFWFMYbY0aOMDw5iAdpDLRIwMyJ3%2FZrf%2FNJLOMXF6HSayUuX%2BHrXLlxjIJMBYKK7m5HubmzbpvbuuwnNmUMu6wCW9AeE9BenLl0C1yWgFBU33EBRdTVDra1MxmIeSIUgqzWBkhL%2BumULobo60uPjqECATDxO3b33IvwOsoJBRk6coK%2BtDXdykqm%2BPnQqhQKkMRjwMkAuwmyW7OQkluOQdV0qFi3imrVrOb9zJ63r16OkJOO6BMvLuXHDBiILFzJx%2FjxuJoNVVESwspK%2FPPEEQikyiQRozdjJkxjf4eLaWpRfmrzd3PQSUmIVFhKaOxcpJQrob24m3tXFHxYsIBSJ4GpNsLychRs3UlJXx8T58wRmzUI5Du70NMYYnNJSkgMDOKEQ452djHz%2BOTbgTk7ihMOecSmRUiIBSwqB1hoD2MEgqbExshMTBIDxzk7GOzqoWbmS6iVLOL97N8p1%2BXLTJjKJBMpxkKEQtXfdRf0DD4CU9Ozbx3BrKze%2F%2BioDLS24rovy54HJZimMRNBaI%2FyukgBOOMy8NWuoWLyYkePHSU9MYFkWxhgGjx3DLinhymXLcIQgNTpKorcXPTVFemSEyxcuMPTxxzglJYweP84X69ZRsXgxia4uYs3N2IAlBONnzjB68iS1q1dTu2gRqqDAG0yuMVy9di23bNtG9549nH7lFZQQoDU2MHDkCP3NzURuuYVZ0ShaCIrLy1nyxhusOHSIqquvJt7ZSdfu3Xz%2B%2FPOEo1Gqliyh9513mB4bQ0mJEoJsPM5Hjz5KemyMFQcPUtvURNYYpCME3W%2B9xamNGymdN4%2B599zjjU3AkpLk6ChjbW1YBQVUNTbiGkPNqlWUzptHSTTKlcuWkUkm6di8GTeToXbVKpKxGN1vv52fesIfw9GHH8YuLqb9xRcZamnBEQKpgPGODs5t345xXeofeohAUREYgxACKQTDH32ETqWouPVWioNBapqaiF%2B4QNebb1Jx2204loV2XWbNmcOVK1cSv3CByd5ebP9uMcYQvuoq6h58kKEPP%2BTUa6%2BRGhhAGYMUxuBIiRSCZH8%2FQils2%2Fa81hrbGMba2pjo7CQ8fz4Lt26ltKGB%2Fv37%2BXrHDkoaGqhcupQMUNnYSHF9PbGDB73Z4iMdIFBaSkF5OcpxcKTEUsqfqABae%2BlSCmFZKMvK96mSEjeToW%2FfPgKRCLObmsgmkwweOsTExYtMnDvH7NWrKbBtqhob%2Be70aYaPHcMGxIwb1WSzqEAAnU6Dvy587pevk56exqTTnuczrk4LGGlpIRmLIWyb0U8%2BIdHVhTKG2HvvUVhRwezGRornzmXg4EGyyaQ3W3wsSSFQts300BCZ8XFvLb83gwfoVAorGEQYkwei0BpLCCZ7ehg%2BepTpWIxvduzwDgWGP%2FgAPT1N9Mkn0ek0l3zw5QPzuYAwBlVY%2BN9LzbcpJRgpBMafUMGaGspuvBEnGMyXwudynNuyhZbly4l3dGAZgxKCqZ4edDpNsK6Oy21tJPv7sYTIG7KKiigMhym7%2FnpUQQGZ0dGZHNJI6VMxBfTt3k3i4kX%2BvGEDSw4cIDR%2FPjqXQiAzPu6h1%2FdeSYl2XWLvvgtA%2F5494DumpMQFKu%2B8k9v37uVPL7zAxJkzjH36KVauNUFYwEVb67lSCHO5tVW2PfIIkaVLccrKSA8MeFexf3OpHGv0o0NrLOC7L75g4tQpEmfP5ul3DjuTnZ307tpFaniY0ZYWpkdHsUArrUUGusQeeLkY%2FjYJrhBCaWPyqkjN4AE%2FplLy%2FMCyCEajJM6e9fo%2Bt%2B7zie%2Bd5zEhNwgqAf8Sb0GkANotqEqDlkIoZrJi88tkyk85iRB5lo3WaGNcB2QWYtNwnQDYC3cUw%2BHUD6SZ%2BZU68H%2F2PAfz0iwAJGBZExyRBmQTHEnACgE9IVCOD8z%2FRxHle%2F7H9gAHRMhTXj0JWNEER0xOnPov%2Bl2oKPTleQYazAyx8qt1uc%2F%2FbV%2BeJ2HrPTCYs%2Fkf4Hq6H81WPBQAAAAASUVORK5CYII%3D" alt="Portfolio"></a>
-  <a href="https://wrack.dev/resume"><img src="https://img.shields.io/badge/Resume-21262D?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"></a>
-  <a href="https://linkedin.com/in/himanshulal4"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzREQTNGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
-  <a href="https://www.npmjs.com/~wrack"><img src="https://img.shields.io/badge/npm-21262D?style=for-the-badge&logo=npm&logoColor=F2544B" alt="npm"></a>
-  <a href="https://peerlist.io/wrack"><img src="https://img.shields.io/badge/Peerlist-21262D?style=for-the-badge&logo=peerlist&logoColor=2ED26B" alt="Peerlist"></a>
-  <a href="https://dev.to/wrack"><img src="https://img.shields.io/badge/dev.to-21262D?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
-  <a href="mailto:himanshulal56@gmail.com"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
+  <a href="https://wrack.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAIZklEQVR42q2Xe2xUVR7HP%2Bece%2B%2B0nU471J2%2BpIXWHbpk1xcqCqtCKogCqSZG0X98%2FOEfvv7AmNXsBkESFtwYjCQkJPsXCWqihChEwAIS6rNIpSKFgih90E7f1M6003ncc%2FaPe2e2uhpddZKb3Jxz5%2Fxe39%2FvfL8CYD3Il0BvggoLnhXQ5EIDIPh9fkbBOQN7s7D1HzCYsylyL%2F%2BEOx34twW1GcD9HawKITDGAKAAG8hCTxoe%2Fzs0rwcpAF6GO4rgcAbIeLal%2BI3RCyFwjcEuKECn02itDaBtUDYwBcuehyNiE0QC0K6gKgNagjK%2FMXIpJWmtCdfUEK6vp7ulBQvAGDS4NkgXYim4TjrwXCFUZ0ErUAKQv%2BFRUpLVmtLqaq59%2FHGGv%2FoKZQzCB5QClQVdCNUOPCcV3O%2BCsUDkPvq1j5ISrTUFoRBLt2xh8LPPmBobw5YSMcMJC4TrAfN%2BS0Kd9jZEruhCSg%2B6Wv%2FymvuRF4TD3LFtG6l4nG%2F276dQKTAGKQSYfHGl9jJWJwWYnGdSCATgao2rNbly%2FFzk0o%2B8qKyM2zdvJhyN0rlzp4di18XVGuM78YPzjCVnoN01BiUls%2BrrMVoz2d9Pdnoa%2BTORZ7Sm6IorWLB2LWUNDfQePszgiRPYQuAEgxRVVZGOx0kMDOSxkvu7JfyW0cZQOns28x97jIqbbsIOhWh55hmGT5%2FG8iP8qbSHKitZ8OyzhGprSfT18fXrryO0RgM1y5dzzVNPobNZepub%2BXL7dkwqlZ8RajVskFKSNYZrn36aP953H6d37KBr%2F34S337rfQzfA1Eu7VmtCVVVcfO6dZRGoxRGIvS%2B%2Fz5dBw7g2LZXzqkphtrbCUYiRNesYay9ncvd3Vg%2BMK3c4RZQXFWFMYbY0aOMDw5iAdpDLRIwMyJ3%2FZrf%2FNJLOMXF6HSayUuX%2BHrXLlxjIJMBYKK7m5HubmzbpvbuuwnNmUMu6wCW9AeE9BenLl0C1yWgFBU33EBRdTVDra1MxmIeSIUgqzWBkhL%2BumULobo60uPjqECATDxO3b33IvwOsoJBRk6coK%2BtDXdykqm%2BPnQqhQKkMRjwMkAuwmyW7OQkluOQdV0qFi3imrVrOb9zJ63r16OkJOO6BMvLuXHDBiILFzJx%2FjxuJoNVVESwspK%2FPPEEQikyiQRozdjJkxjf4eLaWpRfmrzd3PQSUmIVFhKaOxcpJQrob24m3tXFHxYsIBSJ4GpNsLychRs3UlJXx8T58wRmzUI5Du70NMYYnNJSkgMDOKEQ452djHz%2BOTbgTk7ihMOecSmRUiIBSwqB1hoD2MEgqbExshMTBIDxzk7GOzqoWbmS6iVLOL97N8p1%2BXLTJjKJBMpxkKEQtXfdRf0DD4CU9Ozbx3BrKze%2F%2BioDLS24rovy54HJZimMRNBaI%2FyukgBOOMy8NWuoWLyYkePHSU9MYFkWxhgGjx3DLinhymXLcIQgNTpKorcXPTVFemSEyxcuMPTxxzglJYweP84X69ZRsXgxia4uYs3N2IAlBONnzjB68iS1q1dTu2gRqqDAG0yuMVy9di23bNtG9549nH7lFZQQoDU2MHDkCP3NzURuuYVZ0ShaCIrLy1nyxhusOHSIqquvJt7ZSdfu3Xz%2B%2FPOEo1Gqliyh9513mB4bQ0mJEoJsPM5Hjz5KemyMFQcPUtvURNYYpCME3W%2B9xamNGymdN4%2B599zjjU3AkpLk6ChjbW1YBQVUNTbiGkPNqlWUzptHSTTKlcuWkUkm6di8GTeToXbVKpKxGN1vv52fesIfw9GHH8YuLqb9xRcZamnBEQKpgPGODs5t345xXeofeohAUREYgxACKQTDH32ETqWouPVWioNBapqaiF%2B4QNebb1Jx2204loV2XWbNmcOVK1cSv3CByd5ebP9uMcYQvuoq6h58kKEPP%2BTUa6%2BRGhhAGYMUxuBIiRSCZH8%2FQils2%2Fa81hrbGMba2pjo7CQ8fz4Lt26ltKGB%2Fv37%2BXrHDkoaGqhcupQMUNnYSHF9PbGDB73Z4iMdIFBaSkF5OcpxcKTEUsqfqABae%2BlSCmFZKMvK96mSEjeToW%2FfPgKRCLObmsgmkwweOsTExYtMnDvH7NWrKbBtqhob%2Be70aYaPHcMGxIwb1WSzqEAAnU6Dvy587pevk56exqTTnuczrk4LGGlpIRmLIWyb0U8%2BIdHVhTKG2HvvUVhRwezGRornzmXg4EGyyaQ3W3wsSSFQts300BCZ8XFvLb83gwfoVAorGEQYkwei0BpLCCZ7ehg%2BepTpWIxvduzwDgWGP%2FgAPT1N9Mkn0ek0l3zw5QPzuYAwBlVY%2BN9LzbcpJRgpBMafUMGaGspuvBEnGMyXwudynNuyhZbly4l3dGAZgxKCqZ4edDpNsK6Oy21tJPv7sYTIG7KKiigMhym7%2FnpUQQGZ0dGZHNJI6VMxBfTt3k3i4kX%2BvGEDSw4cIDR%2FPjqXQiAzPu6h1%2FdeSYl2XWLvvgtA%2F5494DumpMQFKu%2B8k9v37uVPL7zAxJkzjH36KVauNUFYwEVb67lSCHO5tVW2PfIIkaVLccrKSA8MeFexf3OpHGv0o0NrLOC7L75g4tQpEmfP5ul3DjuTnZ307tpFaniY0ZYWpkdHsUArrUUGusQeeLkY%2FjYJrhBCaWPyqkjN4AE%2FplLy%2FMCyCEajJM6e9fo%2Bt%2B7zie%2Bd5zEhNwgqAf8Sb0GkANotqEqDlkIoZrJi88tkyk85iRB5lo3WaGNcB2QWYtNwnQDYC3cUw%2BHUD6SZ%2BZU68H%2F2PAfz0iwAJGBZExyRBmQTHEnACgE9IVCOD8z%2FRxHle%2F7H9gAHRMhTXj0JWNEER0xOnPov%2Bl2oKPTleQYazAyx8qt1uc%2F%2FbV%2BeJ2HrPTCYs%2Fkf4Hq6H81WPBQAAAAASUVORK5CYII%3D"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAIZklEQVR42q2Xe2xUVR7HP%2Bece%2B%2B0nU471J2%2BpIXWHbpk1xcqCqtCKogCqSZG0X98%2FOEfvv7AmNXsBkESFtwYjCQkJPsXCWqihChEwAIS6rNIpSKFgih90E7f1M6003ncc%2FaPe2e2uhpddZKb3Jxz5%2Fxe39%2FvfL8CYD3Il0BvggoLnhXQ5EIDIPh9fkbBOQN7s7D1HzCYsylyL%2F%2BEOx34twW1GcD9HawKITDGAKAAG8hCTxoe%2Fzs0rwcpAF6GO4rgcAbIeLal%2BI3RCyFwjcEuKECn02itDaBtUDYwBcuehyNiE0QC0K6gKgNagjK%2FMXIpJWmtCdfUEK6vp7ulBQvAGDS4NkgXYim4TjrwXCFUZ0ErUAKQv%2BFRUpLVmtLqaq59%2FHGGv%2FoKZQzCB5QClQVdCNUOPCcV3O%2BCsUDkPvq1j5ISrTUFoRBLt2xh8LPPmBobw5YSMcMJC4TrAfN%2BS0Kd9jZEruhCSg%2B6Wv%2FymvuRF4TD3LFtG6l4nG%2F276dQKTAGKQSYfHGl9jJWJwWYnGdSCATgao2rNbly%2FFzk0o%2B8qKyM2zdvJhyN0rlzp4di18XVGuM78YPzjCVnoN01BiUls%2BrrMVoz2d9Pdnoa%2BTORZ7Sm6IorWLB2LWUNDfQePszgiRPYQuAEgxRVVZGOx0kMDOSxkvu7JfyW0cZQOns28x97jIqbbsIOhWh55hmGT5%2FG8iP8qbSHKitZ8OyzhGprSfT18fXrryO0RgM1y5dzzVNPobNZepub%2BXL7dkwqlZ8RajVskFKSNYZrn36aP953H6d37KBr%2F34S337rfQzfA1Eu7VmtCVVVcfO6dZRGoxRGIvS%2B%2Fz5dBw7g2LZXzqkphtrbCUYiRNesYay9ncvd3Vg%2BMK3c4RZQXFWFMYbY0aOMDw5iAdpDLRIwMyJ3%2FZrf%2FNJLOMXF6HSayUuX%2BHrXLlxjIJMBYKK7m5HubmzbpvbuuwnNmUMu6wCW9AeE9BenLl0C1yWgFBU33EBRdTVDra1MxmIeSIUgqzWBkhL%2BumULobo60uPjqECATDxO3b33IvwOsoJBRk6coK%2BtDXdykqm%2BPnQqhQKkMRjwMkAuwmyW7OQkluOQdV0qFi3imrVrOb9zJ63r16OkJOO6BMvLuXHDBiILFzJx%2FjxuJoNVVESwspK%2FPPEEQikyiQRozdjJkxjf4eLaWpRfmrzd3PQSUmIVFhKaOxcpJQrob24m3tXFHxYsIBSJ4GpNsLychRs3UlJXx8T58wRmzUI5Du70NMYYnNJSkgMDOKEQ452djHz%2BOTbgTk7ihMOecSmRUiIBSwqB1hoD2MEgqbExshMTBIDxzk7GOzqoWbmS6iVLOL97N8p1%2BXLTJjKJBMpxkKEQtXfdRf0DD4CU9Ozbx3BrKze%2F%2BioDLS24rovy54HJZimMRNBaI%2FyukgBOOMy8NWuoWLyYkePHSU9MYFkWxhgGjx3DLinhymXLcIQgNTpKorcXPTVFemSEyxcuMPTxxzglJYweP84X69ZRsXgxia4uYs3N2IAlBONnzjB68iS1q1dTu2gRqqDAG0yuMVy9di23bNtG9549nH7lFZQQoDU2MHDkCP3NzURuuYVZ0ShaCIrLy1nyxhusOHSIqquvJt7ZSdfu3Xz%2B%2FPOEo1Gqliyh9513mB4bQ0mJEoJsPM5Hjz5KemyMFQcPUtvURNYYpCME3W%2B9xamNGymdN4%2B599zjjU3AkpLk6ChjbW1YBQVUNTbiGkPNqlWUzptHSTTKlcuWkUkm6di8GTeToXbVKpKxGN1vv52fesIfw9GHH8YuLqb9xRcZamnBEQKpgPGODs5t345xXeofeohAUREYgxACKQTDH32ETqWouPVWioNBapqaiF%2B4QNebb1Jx2204loV2XWbNmcOVK1cSv3CByd5ebP9uMcYQvuoq6h58kKEPP%2BTUa6%2BRGhhAGYMUxuBIiRSCZH8%2FQils2%2Fa81hrbGMba2pjo7CQ8fz4Lt26ltKGB%2Fv37%2BXrHDkoaGqhcupQMUNnYSHF9PbGDB73Z4iMdIFBaSkF5OcpxcKTEUsqfqABae%2BlSCmFZKMvK96mSEjeToW%2FfPgKRCLObmsgmkwweOsTExYtMnDvH7NWrKbBtqhob%2Be70aYaPHcMGxIwb1WSzqEAAnU6Dvy587pevk56exqTTnuczrk4LGGlpIRmLIWyb0U8%2BIdHVhTKG2HvvUVhRwezGRornzmXg4EGyyaQ3W3wsSSFQts300BCZ8XFvLb83gwfoVAorGEQYkwei0BpLCCZ7ehg%2BepTpWIxvduzwDgWGP%2FgAPT1N9Mkn0ek0l3zw5QPzuYAwBlVY%2BN9LzbcpJRgpBMafUMGaGspuvBEnGMyXwudynNuyhZbly4l3dGAZgxKCqZ4edDpNsK6Oy21tJPv7sYTIG7KKiigMhym7%2FnpUQQGZ0dGZHNJI6VMxBfTt3k3i4kX%2BvGEDSw4cIDR%2FPjqXQiAzPu6h1%2FdeSYl2XWLvvgtA%2F5494DumpMQFKu%2B8k9v37uVPL7zAxJkzjH36KVauNUFYwEVb67lSCHO5tVW2PfIIkaVLccrKSA8MeFexf3OpHGv0o0NrLOC7L75g4tQpEmfP5ul3DjuTnZ307tpFaniY0ZYWpkdHsUArrUUGusQeeLkY%2FjYJrhBCaWPyqkjN4AE%2FplLy%2FMCyCEajJM6e9fo%2Bt%2B7zie%2Bd5zEhNwgqAf8Sb0GkANotqEqDlkIoZrJi88tkyk85iRB5lo3WaGNcB2QWYtNwnQDYC3cUw%2BHUD6SZ%2BZU68H%2F2PAfz0iwAJGBZExyRBmQTHEnACgE9IVCOD8z%2FRxHle%2F7H9gAHRMhTXj0JWNEER0xOnPov%2Bl2oKPTleQYazAyx8qt1uc%2F%2FbV%2BeJ2HrPTCYs%2Fkf4Hq6H81WPBQAAAAASUVORK5CYII%3D" alt="Portfolio"></picture></a>
+  <a href="https://wrack.dev/resume"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=white"><img src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=readdotcv&logoColor=1F2328" alt="Resume"></picture></a>
+  <a href="https://linkedin.com/in/himanshulal4"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzREQTNGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzREQTNGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></picture></a>
+  <a href="https://www.npmjs.com/~wrack"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=F2544B"><img src="https://img.shields.io/badge/npm-FFFFFF?style=for-the-badge&logo=npm&logoColor=F2544B" alt="npm"></picture></a>
+  <a href="https://peerlist.io/wrack"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Peerlist-0D1117?style=for-the-badge&logo=peerlist&logoColor=2ED26B"><img src="https://img.shields.io/badge/Peerlist-FFFFFF?style=for-the-badge&logo=peerlist&logoColor=2ED26B" alt="Peerlist"></picture></a>
+  <a href="https://dev.to/wrack"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/dev.to-0D1117?style=for-the-badge&logo=devdotto&logoColor=white"><img src="https://img.shields.io/badge/dev.to-FFFFFF?style=for-the-badge&logo=devdotto&logoColor=1F2328" alt="dev.to"></picture></a>
+  <a href="mailto:himanshulal56@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></picture></a>
 </p>
 
 ---
 
-### About
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/01-about.svg">
+  <img src="assets/sections/01-about.svg" alt="ABOUT" width="100%">
+</picture>
 
 **I build mobile apps, web apps, and open-source developer tools.**
 
@@ -29,7 +32,10 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 ---
 
-### Profiles
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/02-profiles.svg">
+  <img src="assets/sections/02-profiles.svg" alt="PROFILES" width="100%">
+</picture>
 
 <p align="center">
   <a href="https://wrack.dev"><img src="assets/globe.svg" width="30" height="30" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;
@@ -45,7 +51,10 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 ---
 
-### Connect with me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/03-connect.svg">
+  <img src="assets/sections/03-connect.svg" alt="CONNECT" width="100%">
+</picture>
 
 <p align="center">
   <a href="https://linkedin.com/in/himanshulal4"><img src="assets/linkedin.svg" width="30" height="30" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
@@ -58,11 +67,14 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 ---
 
-### Support
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/04-support.svg">
+  <img src="assets/sections/04-support.svg" alt="SUPPORT" width="100%">
+</picture>
 
 <p align="center">
-  <a href="https://github.com/sponsors/himanshu-lal4"><img src="https://img.shields.io/badge/GitHub_Sponsors-21262D?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
-  <a href="https://buymeacoffee.com/wrack"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-21262D?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00" alt="Buy Me a Coffee"></a>
+  <a href="https://github.com/sponsors/himanshu-lal4"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub_Sponsors-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA"><img src="https://img.shields.io/badge/GitHub_Sponsors-FFFFFF?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" alt="GitHub Sponsors"></picture></a>
+  <a href="https://buymeacoffee.com/wrack"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Buy_Me_a_Coffee-0D1117?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFFFFF?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00" alt="Buy Me a Coffee"></picture></a>
 </p>
 
 <p align="center">
@@ -71,7 +83,10 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 ---
 
-### GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/05-telemetry.svg">
+  <img src="assets/sections/05-telemetry.svg" alt="TELEMETRY" width="100%">
+</picture>
 
 <p align="center">
   <picture>
@@ -101,7 +116,10 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 ---
 
-### Open Source Projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/06-open-source.svg">
+  <img src="assets/sections/06-open-source.svg" alt="OPEN SOURCE" width="100%">
+</picture>
 
 <div align="center">
 <table>
@@ -138,7 +156,10 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 ---
 
-### Other Projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/07-other-projects.svg">
+  <img src="assets/sections/07-other-projects.svg" alt="OTHER PROJECTS" width="100%">
+</picture>
 
 <div align="center">
 <table>
@@ -153,12 +174,12 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 <tr>
 <td align="left"><b><a href="https://snoozewar.com"><img src="assets/snoozewar-icon.png" width="16" height="16" align="absmiddle">&nbsp;SnoozeWar</a></b></td>
 <td align="left">Fixes your sleep–wake cycle using what sleep science says works. Escape-resistant wake-up missions, app blocking, sleep-debt tracking. Built solo.</td>
-<td align="left"><a href="https://play.google.com/store/apps/details?id=com.snoozewar.app"><img src="https://img.shields.io/badge/Google_Play-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=googleplay&logoColor=FFFFFF" alt="Google Play"></a><br><a href="https://snoozewar.com"><img src="https://img.shields.io/badge/snoozewar.com-21262D?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOS41Ii8%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iMTIiIHJ4PSI0IiByeT0iOS41Ii8%2BPHBhdGggZD0iTTIuNSAxMmgxOSIvPjxwYXRoIGQ9Ik00LjIgNi41aDE1LjYiLz48cGF0aCBkPSJNNC4yIDE3LjVoMTUuNiIvPjwvc3ZnPg%3D%3D" alt="snoozewar.com"></a></td>
+<td align="left"><a href="https://play.google.com/store/apps/details?id=com.snoozewar.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Google_Play-0D1117?style=flat-square&labelColor=0D1117&color=21262D&logo=googleplay&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Google_Play-FFFFFF?style=flat-square&labelColor=0D1117&color=21262D&logo=googleplay&logoColor=1F2328" alt="Google Play"></picture></a><br><a href="https://snoozewar.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/snoozewar.com-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOS41Ii8%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iMTIiIHJ4PSI0IiByeT0iOS41Ii8%2BPHBhdGggZD0iTTIuNSAxMmgxOSIvPjxwYXRoIGQ9Ik00LjIgNi41aDE1LjYiLz48cGF0aCBkPSJNNC4yIDE3LjVoMTUuNiIvPjwvc3ZnPg%3D%3D"><img src="https://img.shields.io/badge/snoozewar.com-FFFFFF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOS41Ii8%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iMTIiIHJ4PSI0IiByeT0iOS41Ii8%2BPHBhdGggZD0iTTIuNSAxMmgxOSIvPjxwYXRoIGQ9Ik00LjIgNi41aDE1LjYiLz48cGF0aCBkPSJNNC4yIDE3LjVoMTUuNiIvPjwvc3ZnPg%3D%3D" alt="snoozewar.com"></picture></a></td>
 </tr>
 <tr>
 <td align="left"><b><a href="https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor">🎨&nbsp;Design&nbsp;System&nbsp;Auditor</a></b></td>
 <td align="left">Scores a Figma file's AI-readiness 0–100 and fixes detached styles and token drift.</td>
-<td align="left"><a href="https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor"><img src="https://img.shields.io/badge/Figma_Community-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=figma&logoColor=F24E1E" alt="Figma"></a></td>
+<td align="left"><a href="https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Figma_Community-0D1117?style=flat-square&labelColor=0D1117&color=21262D&logo=figma&logoColor=F24E1E"><img src="https://img.shields.io/badge/Figma_Community-FFFFFF?style=flat-square&labelColor=0D1117&color=21262D&logo=figma&logoColor=F24E1E" alt="Figma"></picture></a></td>
 </tr>
 </tbody>
 </table>
@@ -166,7 +187,10 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 ---
 
-### Tech Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/08-stack.svg">
+  <img src="assets/sections/08-stack.svg" alt="STACK" width="100%">
+</picture>
 
 <div align="center">
 <table>
