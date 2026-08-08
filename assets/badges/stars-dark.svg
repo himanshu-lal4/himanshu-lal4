@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129" height="28" viewBox="0 0 129 28" role="img" aria-label="GITHUB: 26">
+  <title>GITHUB: 26</title>
+  <rect width="87" height="28" fill="#21262D"/>
+  <rect x="87" width="42" height="28" fill="#2F81F7"/>
+  <g transform="translate(11,7) scale(0.583)" fill="#FFFFFF"><path d="M12 2l2.9 6.3 6.9.8-5.1 4.7 1.4 6.8L12 17.3 5.9 20.6l1.4-6.8L2.2 9.1l6.9-.8z"/></g>
+  <text x="33" y="18" fill="#FFFFFF" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="10" font-weight="bold" letter-spacing="1.1">GITHUB</text>
+  <text x="108.0" y="18" fill="#FFFFFF" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="11" font-weight="bold" text-anchor="middle">26</text>
+</svg>

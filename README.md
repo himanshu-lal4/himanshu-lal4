@@ -93,9 +93,8 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 </p>
 
 <p align="center">
-  <a href="https://github.com/himanshu-lal4?tab=repositories"><img src="https://img.shields.io/github/stars/himanshu-lal4?style=for-the-badge&labelColor=0D1117&color=2F81F7&label=TOTAL%20STARS&logo=github&logoColor=FFFFFF" alt="total stars"></a>
-  <a href="https://www.npmjs.com/package/@wrack/react-native-tour-guide"><img src="https://img.shields.io/npm/d18m/@wrack/react-native-tour-guide?style=for-the-badge&labelColor=0D1117&color=2F81F7&label=TOUR%20GUIDE%20INSTALLS&logo=npm&logoColor=F2544B" alt="tour-guide installs"></a>
-  <a href="https://www.npmjs.com/package/react-native-liquid-glassmorphism"><img src="https://img.shields.io/npm/d18m/react-native-liquid-glassmorphism?style=for-the-badge&labelColor=0D1117&color=2F81F7&label=LIQUID%20GLASS%20INSTALLS&logo=npm&logoColor=F2544B" alt="liquid-glass installs"></a>
+  <a href="https://github.com/himanshu-lal4?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/stars-dark.svg"><img src="assets/badges/stars-light.svg" alt="GitHub stars"></picture></a>
+  <a href="https://www.npmjs.com/~wrack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/installs-dark.svg"><img src="assets/badges/installs-light.svg" alt="npm installs"></picture></a>
 </p>
 
 <p align="center">
