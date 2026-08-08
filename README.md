@@ -22,7 +22,7 @@
 
 Currently a Software Engineer & Release Manager at [Tap Health](https://tap.health), an author of open-source developer tools published on [npm](https://www.npmjs.com/~wrack), and founder of [SnoozeWar](https://snoozewar.com). I ship mobile and web apps, drop down to native code when the platform demands it, and own the release pipeline to both stores.
 
-- 🤣 I'm currently learning **everything**
+- 📚 I'm currently learning **everything** 🤣
 - 🤝 Open to collaborating on **open-source projects**
 - 💡 Always open to **new ideas worth building**
 - 🌱 Contributors welcome on my libraries — roadmaps and `good first issue` labels are live on [tour-guide](https://github.com/himanshu-lal4/react-native-tour-guide/issues/9) and [liquid-glassmorphism](https://github.com/himanshu-lal4/react-native-liquid-glassmorphism/issues/23)
