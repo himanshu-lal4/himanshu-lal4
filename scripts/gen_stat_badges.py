@@ -19,7 +19,7 @@ START = "2024-01-01"
 FONT = "Verdana,DejaVu Sans,Geneva,sans-serif"
 
 STAR = "M12 2l2.9 6.3 6.9.8-5.1 4.7 1.4 6.8L12 17.3 5.9 20.6l1.4-6.8L2.2 9.1l6.9-.8z"
-DOWNLOAD = "M12 3v10.6l3.7-3.7 1.4 1.4L12 17.4 6.9 12.3l1.4-1.4L12 13.6V3zM4 19h16v2H4z"
+DOWNLOAD = "M12 15.6l-5-5 1.4-1.4 2.6 2.6V3h2v8.8l2.6-2.6L17 10.6l-5 5zM5 18h14v2H5z"
 
 THEMES = {  # suffix: (label bg, label fg, value bg, value fg)
     "dark":  ("#21262D", "#FFFFFF", "#2F81F7", "#FFFFFF"),
