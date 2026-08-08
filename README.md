@@ -18,13 +18,9 @@
 
 ### About
 
-I build React Native apps, and the open-source libraries that go inside them.
+**I build mobile apps, web apps, and open-source developer tools.**
 
-- 📱 Shipping a production health app on **iOS and Android** — 40+ releases, and I own both store pipelines
-- ⚙️ Led a **React Native 0.68 → 0.80** upgrade and migrated native modules from Java/Obj-C to **Kotlin and Swift**
-- 📦 My libraries are installed **~7,000 times a month** on npm
-- 🌙 Building **[SnoozeWar](https://snoozewar.com)** — an app that fixes your sleep–wake cycle
-- ✍️ I write about native shaders and RN internals on **[dev.to](https://dev.to/wrack)**
+Currently a Software Engineer & Release Manager at Tap Health, an author of open-source developer tools and founder of SnoozeWar. I ship mobile and web apps, drop down to native code when the platform demands it, and own the release pipeline to both stores.
 
 ---
 
