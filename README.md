@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wrack.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Portfolio-EAEEF2?style=for-the-badge&logo=vercel&logoColor=1F2328" alt="Portfolio"></picture></a>
+  <a href="https://wrack.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/portfolio-dark.svg"><img src="assets/badges/portfolio-light.svg" alt="Portfolio"></picture></a>
   <a href="https://wrack.dev/resume"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Resume-21262D?style=for-the-badge&logo=readdotcv&logoColor=white"><img src="https://img.shields.io/badge/Resume-EAEEF2?style=for-the-badge&logo=readdotcv&logoColor=1F2328" alt="Resume"></picture></a>
   <a href="https://linkedin.com/in/himanshulal4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/linkedin-dark.svg"><img src="assets/badges/linkedin-light.svg" alt="LinkedIn"></picture></a>
   <a href="https://www.npmjs.com/~wrack"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/npm-21262D?style=for-the-badge&logo=npm&logoColor=F2544B"><img src="https://img.shields.io/badge/npm-EAEEF2?style=for-the-badge&logo=npm&logoColor=F2544B" alt="npm"></picture></a>
@@ -174,7 +174,7 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 <tr>
 <td align="left"><b><a href="https://snoozewar.com"><img src="assets/snoozewar-icon.png" width="16" height="16" align="absmiddle">&nbsp;SnoozeWar</a></b></td>
 <td align="left">Fixes your sleep–wake cycle using what sleep science says works. Escape-resistant wake-up missions, app blocking, sleep-debt tracking. Built solo.</td>
-<td align="left"><a href="https://play.google.com/store/apps/details?id=com.snoozewar.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Google_Play-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=googleplay&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Google_Play-EAEEF2?style=flat-square&labelColor=0D1117&color=21262D&logo=googleplay&logoColor=1F2328" alt="Google Play"></picture></a><br><a href="https://snoozewar.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/snoozewar.com-21262D?style=flat-square&logo=googlechrome&logoColor=FFFFFF"><img src="https://img.shields.io/badge/snoozewar.com-EAEEF2?style=flat-square&logo=googlechrome&logoColor=1F2328" alt="snoozewar.com"></picture></a></td>
+<td align="left"><a href="https://play.google.com/store/apps/details?id=com.snoozewar.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Google_Play-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=googleplay&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Google_Play-EAEEF2?style=flat-square&labelColor=0D1117&color=21262D&logo=googleplay&logoColor=1F2328" alt="Google Play"></picture></a><br><a href="https://snoozewar.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/snoozewar-dark.svg"><img src="assets/badges/snoozewar-light.svg" alt="snoozewar.com"></picture></a></td>
 </tr>
 <tr>
 <td align="left"><b><a href="https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor">🎨&nbsp;Design&nbsp;System&nbsp;Auditor</a></b></td>
