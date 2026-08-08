@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://wrack.dev"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/himanshulal4"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
-  <a href="https://www.npmjs.com/~wrack"><img src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837" alt="npm"></a>
-  <a href="https://peerlist.io/wrack"><img src="https://img.shields.io/badge/Peerlist-0D1117?style=for-the-badge&logo=peerlist&logoColor=00AA45" alt="Peerlist"></a>
+  <a href="https://linkedin.com/in/himanshulal4"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=4DA3FF" alt="LinkedIn"></a>
+  <a href="https://www.npmjs.com/~wrack"><img src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=F2544B" alt="npm"></a>
+  <a href="https://peerlist.io/wrack"><img src="https://img.shields.io/badge/Peerlist-0D1117?style=for-the-badge&logo=peerlist&logoColor=2ED26B" alt="Peerlist"></a>
   <a href="https://dev.to/wrack"><img src="https://img.shields.io/badge/dev.to-0D1117?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
   <a href="https://wrack.dev/resume"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"></a>
   <a href="mailto:himanshulal56@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
@@ -32,7 +32,7 @@ I build React Native apps, and the open-source libraries that go inside them.
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=5AA9EE)
 ![Swift](https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=F05138)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -44,23 +44,23 @@ I build React Native apps, and the open-source libraries that go inside them.
 ![Expo](https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=A88BE3)
 
 **Backend & Data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=DD2C00)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FF7043)
 ![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098)
 
 **Testing, CI/CD & Tooling**
 
-![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325)
+![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=F0554A)
 ![Detox](https://img.shields.io/badge/Detox-0D1117?style=for-the-badge&logo=testcafe&logoColor=36B6C8)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Fastlane](https://img.shields.io/badge/Fastlane-0D1117?style=for-the-badge&logo=fastlane&logoColor=00F200)
-![Sentry](https://img.shields.io/badge/Sentry-0D1117?style=for-the-badge&logo=sentry&logoColor=8C5393)
+![Sentry](https://img.shields.io/badge/Sentry-0D1117?style=for-the-badge&logo=sentry&logoColor=C08FD1)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ---
