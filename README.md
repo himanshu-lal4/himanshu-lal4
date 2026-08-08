@@ -24,7 +24,7 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 - 📚 I'm currently learning **everything** 🤣
 - 🤝 Open to collaborating on **open-source projects**
-- 💡 Always open to **new ideas worth building**
+- 💡 Always open to **new ideas worth building** — [let's connect](mailto:himanshulal56@gmail.com)
 - 🌱 Contributors welcome on my libraries — roadmaps and `good first issue` labels are live on [tour-guide](https://github.com/himanshu-lal4/react-native-tour-guide/issues/9) and [liquid-glassmorphism](https://github.com/himanshu-lal4/react-native-liquid-glassmorphism/issues/23)
 
 ---
