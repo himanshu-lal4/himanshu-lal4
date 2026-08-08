@@ -154,3 +154,7 @@ Figma plugin that scores a file's AI-readiness 0–100 and fixes detached styles
 <p align="center">
   <sub><a href="https://wrack.dev">wrack.dev</a></sub>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshu-lal4&style=flat-square&color=8b949e&label=profile+views" alt="profile views">
+</p>
