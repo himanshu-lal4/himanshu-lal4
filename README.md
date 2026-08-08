@@ -150,6 +150,10 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
   <a href="https://www.npmjs.com/~wrack"><img src="https://cdn.simpleicons.org/npm/8B949E" width="30" height="30" alt="npm"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://peerlist.io/wrack"><img src="https://cdn.simpleicons.org/peerlist/8B949E" width="30" height="30" alt="Peerlist"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/wrack"><img src="https://cdn.simpleicons.org/devdotto/8B949E" width="30" height="30" alt="dev.to"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/wrack"><img src="https://cdn.simpleicons.org/x/8B949E" width="30" height="30" alt="X"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.threads.net/@wrack"><img src="https://cdn.simpleicons.org/threads/8B949E" width="30" height="30" alt="Threads"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/wrack"><img src="https://cdn.simpleicons.org/instagram/8B949E" width="30" height="30" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://reddit.com/user/wrack"><img src="https://cdn.simpleicons.org/reddit/8B949E" width="30" height="30" alt="Reddit"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:himanshulal56@gmail.com"><img src="https://cdn.simpleicons.org/gmail/8B949E" width="30" height="30" alt="Email"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
