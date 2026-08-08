@@ -89,6 +89,16 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 </picture>
 
 <p align="center">
+  <img width="700" src="https://streak-stats.demolab.com/?user=himanshu-lal4&hide_border=true&background=00000000&stroke=30363d&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=8b949e&dates=8b949e&sideNums=8b949e&currStreakNum=8b949e&excludeDaysLabel=8b949e" alt="total contributions, current streak, longest streak">
+</p>
+
+<p align="center">
+  <a href="https://github.com/himanshu-lal4?tab=repositories"><img src="https://img.shields.io/github/stars/himanshu-lal4?style=for-the-badge&labelColor=0D1117&color=2F81F7&label=TOTAL%20STARS&logo=github&logoColor=FFFFFF" alt="total stars"></a>
+  <a href="https://www.npmjs.com/package/@wrack/react-native-tour-guide"><img src="https://img.shields.io/npm/d18m/@wrack/react-native-tour-guide?style=for-the-badge&labelColor=0D1117&color=2F81F7&label=TOUR%20GUIDE%20INSTALLS&logo=npm&logoColor=F2544B" alt="tour-guide installs"></a>
+  <a href="https://www.npmjs.com/package/react-native-liquid-glassmorphism"><img src="https://img.shields.io/npm/d18m/react-native-liquid-glassmorphism?style=for-the-badge&labelColor=0D1117&color=2F81F7&label=LIQUID%20GLASS%20INSTALLS&logo=npm&logoColor=F2544B" alt="liquid-glass installs"></a>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu-lal4&theme=github_dark">
     <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu-lal4&theme=github" alt="profile-details">
@@ -104,10 +114,6 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshu-lal4&theme=github_dark&utcOffset=5.5">
     <img width="346" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshu-lal4&theme=github&utcOffset=5.5" alt="productive-time">
   </picture>
-</p>
-
-<p align="center">
-  <img width="700" src="https://streak-stats.demolab.com/?user=himanshu-lal4&hide_border=true&background=00000000&stroke=30363d&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=8b949e&dates=8b949e&sideNums=8b949e&currStreakNum=8b949e&excludeDaysLabel=8b949e" alt="streak">
 </p>
 
 <p align="center">
