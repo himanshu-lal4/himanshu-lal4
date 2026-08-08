@@ -236,6 +236,15 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/footer.svg">
+  <img src="assets/sections/footer.svg" alt="Currently building SnoozeWar" width="100%">
+</picture>
+
 <p align="center">
-  <sub><a href="https://wrack.dev">wrack.dev</a></sub>
+  <a href="https://wrack.dev" title="Portfolio, projects and writing">wrack.dev</a>
+  &nbsp;·&nbsp;
+  <a href="https://wrack.dev/resume" title="Resume">resume</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:himanshulal56@gmail.com" title="himanshulal56@gmail.com">email</a>
 </p>
