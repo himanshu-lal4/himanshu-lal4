@@ -133,8 +133,22 @@ Figma plugin that scores a file's AI-readiness 0–100 and fixes detached styles
 ### GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=himanshu-lal4&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f81f7&icon_color=2f81f7&text_color=8b949e&include_all_commits=true">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-lal4&layout=compact&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=8b949e&langs_count=8">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-lal4&bg_color=00000000&color=8b949e&line=2f81f7&point=2f81f7&area=true&hide_border=true">
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com/?user=himanshu-lal4&hide_border=true&background=00000000&stroke=30363d&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=8b949e&dates=8b949e&sideNums=8b949e&currStreakNum=8b949e&excludeDaysLabel=8b949e">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshu-lal4&theme=github_dark">
+    <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshu-lal4&theme=github">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshu-lal4&theme=github_dark">
+    <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshu-lal4&theme=github">
+  </picture>
 </p>
 
 ---
