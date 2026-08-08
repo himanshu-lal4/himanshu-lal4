@@ -41,7 +41,7 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 <table>
 <thead>
 <tr>
-<th align="center" width="24%">Project</th>
+<th align="center" width="30%">Project</th>
 <th align="center">⭐ Stars</th>
 <th align="center">🍴 Forks</th>
 <th align="center">📦 Installs</th>
@@ -78,19 +78,19 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 <table>
 <thead>
 <tr>
-<th align="center" width="24%">Project</th>
-<th align="center" width="40%">What it is</th>
+<th align="center" width="30%">Project</th>
+<th align="center" width="38%">What it is</th>
 <th align="center" width="18%">Links</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><b><a href="https://snoozewar.com"><img src="assets/snoozewar-icon.png" width="20" align="absmiddle">&nbsp; SnoozeWar</a></b></td>
+<td align="left"><b><a href="https://snoozewar.com"><img src="assets/snoozewar-icon.png" width="20" align="absmiddle">&nbsp;SnoozeWar</a></b></td>
 <td align="left">Fixes your sleep–wake cycle using what sleep science says works. Escape-resistant wake-up missions, app blocking, sleep-debt tracking. Built solo.</td>
 <td align="center"><a href="https://play.google.com/store/apps/details?id=com.snoozewar.app"><img src="https://img.shields.io/badge/Google_Play-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=googleplay&logoColor=FFFFFF" alt="Google Play"></a><br><a href="https://snoozewar.com"><img src="https://img.shields.io/badge/Website-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=safari&logoColor=FFFFFF" alt="Website"></a></td>
 </tr>
 <tr>
-<td align="left"><b><a href="https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor">🎨 Design System Auditor</a></b></td>
+<td align="left"><b><a href="https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor">🎨&nbsp;Design&nbsp;System&nbsp;Auditor</a></b></td>
 <td align="left">Scores a Figma file's AI-readiness 0–100 and fixes detached styles and token drift.</td>
 <td align="center"><a href="https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor"><img src="https://img.shields.io/badge/Figma_Community-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=figma&logoColor=F24E1E" alt="Figma"></a></td>
 </tr>
