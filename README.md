@@ -20,7 +20,7 @@
 
 **I build mobile apps, web apps, and open-source developer tools.**
 
-Currently a Software Engineer & Release Manager at Tap Health, an author of open-source developer tools and founder of SnoozeWar. I ship mobile and web apps, drop down to native code when the platform demands it, and own the release pipeline to both stores.
+Currently a Software Engineer & Release Manager at [Tap Health](https://tap.health), an author of open-source developer tools and founder of [SnoozeWar](https://snoozewar.com). I ship mobile and web apps, drop down to native code when the platform demands it, and own the release pipeline to both stores.
 
 ---
 
