@@ -113,19 +113,27 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 <tbody>
 <tr>
 <td align="left"><b>Languages</b></td>
-<td align="left"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=5AA9EE" alt=""> <img src="https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=F05138" alt=""> <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt=""> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=""> <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt=""></td>
+<td align="left"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=5AA9EE" alt=""> <img src="https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=F05138" alt=""> <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=A88BE3" alt=""> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=""> <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt=""></td>
 </tr>
 <tr>
-<td align="left"><b>Mobile & Web</b></td>
+<td align="left"><b>Mobile &amp; Web</b></td>
 <td align="left"><img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""> <img src="https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=FFFFFF" alt=""> <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""> <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt=""> <img src="https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=A88BE3" alt=""></td>
 </tr>
 <tr>
-<td align="left"><b>Backend & Data</b></td>
-<td align="left"><img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt=""> <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FF7043" alt=""> <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt=""> <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" alt=""> <img src="https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098" alt=""></td>
+<td align="left"><b>Backend &amp; Data</b></td>
+<td align="left"><img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt=""> <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FF7043" alt=""> <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt=""> <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" alt=""> <img src="https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098" alt=""> <img src="https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF" alt=""></td>
 </tr>
 <tr>
-<td align="left"><b>Testing, CI/CD & Tooling</b></td>
-<td align="left"><img src="https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=F0554A" alt=""> <img src="https://img.shields.io/badge/Detox-0D1117?style=for-the-badge&logo=testcafe&logoColor=36B6C8" alt=""> <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt=""> <img src="https://img.shields.io/badge/Fastlane-0D1117?style=for-the-badge&logo=fastlane&logoColor=00F200" alt=""> <img src="https://img.shields.io/badge/Sentry-0D1117?style=for-the-badge&logo=sentry&logoColor=C08FD1" alt=""> <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt=""> <img src="https://img.shields.io/badge/Xcode_Cloud-0D1117?style=for-the-badge&logo=xcode&logoColor=1575F9" alt=""></td>
+<td align="left"><b>Testing &amp; Quality</b></td>
+<td align="left"><img src="https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=F0554A" alt=""> <img src="https://img.shields.io/badge/Detox-0D1117?style=for-the-badge&logo=testcafe&logoColor=36B6C8" alt=""> <img src="https://img.shields.io/badge/Testing_Library-0D1117?style=for-the-badge&logo=testinglibrary&logoColor=F0554A" alt=""> <img src="https://img.shields.io/badge/ESLint-0D1117?style=for-the-badge&logo=eslint&logoColor=9B8BEF" alt=""></td>
+</tr>
+<tr>
+<td align="left"><b>Release &amp; Monitoring</b></td>
+<td align="left"><img src="https://img.shields.io/badge/App_Store_Connect-0D1117?style=for-the-badge&logo=appstore&logoColor=0D96F6" alt=""> <img src="https://img.shields.io/badge/Play_Console-0D1117?style=for-the-badge&logo=googleplay&logoColor=5CD65C" alt=""> <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt=""> <img src="https://img.shields.io/badge/Xcode_Cloud-0D1117?style=for-the-badge&logo=xcode&logoColor=1575F9" alt=""> <img src="https://img.shields.io/badge/Fastlane-0D1117?style=for-the-badge&logo=fastlane&logoColor=00F200" alt=""> <img src="https://img.shields.io/badge/Sentry-0D1117?style=for-the-badge&logo=sentry&logoColor=C08FD1" alt=""> <img src="https://img.shields.io/badge/Mixpanel-0D1117?style=for-the-badge&logo=mixpanel&logoColor=A78BFA" alt=""></td>
+</tr>
+<tr>
+<td align="left"><b>AI &amp; Design</b></td>
+<td align="left"><img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757" alt=""> <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=FFFFFF" alt=""> <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt=""></td>
 </tr>
 </tbody>
 </table>
