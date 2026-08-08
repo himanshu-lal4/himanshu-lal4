@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0.92"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#59636e" opacity="0.30"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="url(#g)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+  <rect x="0" y="0" width="1200" height="3" fill="#0969da"/>
+  <text x="70" y="132" fill="#1f2328" font-size="62" font-weight="700" letter-spacing="1.5">Himanshu Lal</text>
+  <rect x="72" y="156" width="52" height="3" rx="1.5" fill="#0969da"/>
+  <text x="70" y="196" fill="#59636e" font-size="21" font-weight="500" letter-spacing="3.6">MOBILE ENGINEER</text>
+  <text x="70" y="234" fill="#59636e" font-size="16" letter-spacing="1.7" opacity="0.85">React Native  ·  Swift  ·  Kotlin  ·  Open Source</text>
+  <g opacity="0.55">
+    <circle cx="1055" cy="150" r="66" fill="none" stroke="#0969da" stroke-width="1.4"/>
+    <circle cx="1055" cy="150" r="47" fill="none" stroke="#0969da" stroke-width="1.1" opacity="0.65"/>
+    <circle cx="1055" cy="150" r="28" fill="none" stroke="#0969da" stroke-width="0.9" opacity="0.45"/>
+    <circle cx="1055" cy="150" r="6" fill="#0969da"/>
+  </g>
+</svg>
