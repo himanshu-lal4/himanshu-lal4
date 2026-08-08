@@ -125,11 +125,25 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 </tr>
 <tr>
 <td align="left"><b>Testing, CI/CD & Tooling</b></td>
-<td align="left"><img src="https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=F0554A" alt=""> <img src="https://img.shields.io/badge/Detox-0D1117?style=for-the-badge&logo=testcafe&logoColor=36B6C8" alt=""> <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt=""> <img src="https://img.shields.io/badge/Fastlane-0D1117?style=for-the-badge&logo=fastlane&logoColor=00F200" alt=""> <img src="https://img.shields.io/badge/Sentry-0D1117?style=for-the-badge&logo=sentry&logoColor=C08FD1" alt=""> <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt=""></td>
+<td align="left"><img src="https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=F0554A" alt=""> <img src="https://img.shields.io/badge/Detox-0D1117?style=for-the-badge&logo=testcafe&logoColor=36B6C8" alt=""> <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt=""> <img src="https://img.shields.io/badge/Fastlane-0D1117?style=for-the-badge&logo=fastlane&logoColor=00F200" alt=""> <img src="https://img.shields.io/badge/Sentry-0D1117?style=for-the-badge&logo=sentry&logoColor=C08FD1" alt=""> <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt=""> <img src="https://img.shields.io/badge/Xcode_Cloud-0D1117?style=for-the-badge&logo=xcode&logoColor=1575F9" alt=""></td>
 </tr>
 </tbody>
 </table>
 </div>
+
+---
+
+### Connect with me
+
+<p align="center">
+  <a href="https://wrack.dev"><img src="assets/globe.svg" width="30" height="30" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wrack.dev/resume"><img src="https://cdn.simpleicons.org/readdotcv/8B949E" width="30" height="30" alt="Resume"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/himanshulal4"><img src="assets/linkedin.svg" width="30" height="30" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.npmjs.com/~wrack"><img src="https://cdn.simpleicons.org/npm/8B949E" width="30" height="30" alt="npm"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://peerlist.io/wrack"><img src="https://cdn.simpleicons.org/peerlist/8B949E" width="30" height="30" alt="Peerlist"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/wrack"><img src="https://cdn.simpleicons.org/devdotto/8B949E" width="30" height="30" alt="dev.to"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:himanshulal56@gmail.com"><img src="https://cdn.simpleicons.org/gmail/8B949E" width="30" height="30" alt="Email"></a>&nbsp;&nbsp;&nbsp;
+</p>
 
 ---
 
