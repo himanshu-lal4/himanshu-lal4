@@ -30,7 +30,7 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 <p align="center">
   <a href="https://github.com/sponsors/himanshu-lal4"><img src="https://img.shields.io/badge/Sponsor_my_work-21262D?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" alt="Sponsor"></a>
   <br>
-  <sub>If my libraries save you time, sponsoring keeps them maintained.</sub>
+  <sub>If my work saves you time, sponsoring keeps it maintained.</sub>
 </p>
 
 ---
