@@ -238,13 +238,25 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/footer.svg">
-  <img src="assets/sections/footer.svg" alt="Currently building SnoozeWar" width="100%">
+  <img src="assets/sections/footer.svg" alt="" width="100%">
 </picture>
 
 <p align="center">
   <a href="https://wrack.dev" title="Portfolio, projects and writing">wrack.dev</a>
   &nbsp;·&nbsp;
-  <a href="https://wrack.dev/resume" title="Resume">resume</a>
+<a href="https://wrack.dev/resume" title="Resume">resume</a>
   &nbsp;·&nbsp;
-  <a href="mailto:himanshulal56@gmail.com" title="himanshulal56@gmail.com">email</a>
+<a href="https://snoozewar.com" title="SnoozeWar — sleep-wake enforcement app">snoozewar</a>
+  &nbsp;·&nbsp;
+<a href="https://www.npmjs.com/~wrack" title="Published packages">npm</a>
+  &nbsp;·&nbsp;
+<a href="https://github.com/himanshu-lal4?tab=repositories" title="All public repositories">repositories</a>
+  &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/himanshulal4" title="LinkedIn profile">linkedin</a>
+  &nbsp;·&nbsp;
+<a href="https://dev.to/wrack" title="Articles on dev.to">writing</a>
+  &nbsp;·&nbsp;
+<a href="https://github.com/sponsors/himanshu-lal4" title="GitHub Sponsors">sponsor</a>
+  &nbsp;·&nbsp;
+<a href="mailto:himanshulal56@gmail.com" title="himanshulal56@gmail.com">email</a>
 </p>
