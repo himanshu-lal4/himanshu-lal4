@@ -140,17 +140,6 @@ Figma plugin that scores a file's AI-readiness 0–100 and fixes detached styles
   <img width="60%" src="https://streak-stats.demolab.com/?user=himanshu-lal4&hide_border=true&background=00000000&stroke=30363d&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=8b949e&dates=8b949e&sideNums=8b949e&currStreakNum=8b949e&excludeDaysLabel=8b949e">
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshu-lal4&theme=github_dark">
-    <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshu-lal4&theme=github">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshu-lal4&theme=github_dark">
-    <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshu-lal4&theme=github">
-  </picture>
-</p>
-
 ---
 
 <p align="center">
