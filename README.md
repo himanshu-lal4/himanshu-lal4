@@ -236,11 +236,6 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/footer-v2.svg">
-  <img src="assets/sections/footer-v2.svg" alt="" width="100%">
-</picture>
-
 <p align="center">
   <a href="https://wrack.dev" title="Portfolio, projects and writing">wrack.dev</a>
   &nbsp;·&nbsp;
@@ -259,4 +254,8 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 <a href="https://github.com/sponsors/himanshu-lal4" title="GitHub Sponsors">sponsor</a>
   &nbsp;·&nbsp;
 <a href="mailto:himanshulal56@gmail.com" title="himanshulal56@gmail.com">email</a>
+</p>
+
+<p align="center">
+  <sub>Badges and telemetry refresh automatically &#8212; nothing on this page is hand-maintained.</sub>
 </p>
