@@ -183,7 +183,7 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 </tr>
 <tr>
 <td align="left"><b><a href="https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor">🎨&nbsp;Design&nbsp;System&nbsp;Auditor</a></b></td>
-<td align="left">Scores a Figma file's AI-readiness 0–100 and fixes detached styles and token drift.</td>
+<td align="left">Find and fix design-system problems inside Figma. Scores a file's AI-readiness 0–100 and catches detached styles and token drift, so code generation from Figma actually works.</td>
 <td align="left"><a href="https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Figma_Community-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=figma&logoColor=F24E1E"><img src="https://img.shields.io/badge/Figma_Community-EAEEF2?style=flat-square&labelColor=0D1117&color=21262D&logo=figma&logoColor=F24E1E" alt="Figma"></picture></a></td>
 </tr>
 </tbody>
