@@ -251,7 +251,9 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
   &nbsp;·&nbsp;
 <a href="https://dev.to/wrack" title="Articles on dev.to">writing</a>
   &nbsp;·&nbsp;
-<a href="https://github.com/sponsors/himanshu-lal4" title="GitHub Sponsors">sponsor</a>
+<a href="https://github.com/sponsors/himanshu-lal4" title="GitHub Sponsors">github sponsors</a>
+  &nbsp;·&nbsp;
+<a href="https://buymeacoffee.com/wrack" title="Buy Me a Coffee">buy me a coffee</a>
   &nbsp;·&nbsp;
 <a href="mailto:himanshulal56@gmail.com" title="himanshulal56@gmail.com">email</a>
 </p>
