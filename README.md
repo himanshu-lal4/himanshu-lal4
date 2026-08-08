@@ -237,8 +237,8 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/footer.svg">
-  <img src="assets/sections/footer.svg" alt="" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/footer-v2.svg">
+  <img src="assets/sections/footer-v2.svg" alt="" width="100%">
 </picture>
 
 <p align="center">
