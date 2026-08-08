@@ -38,12 +38,36 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 ### Open Source Projects
 
 <div align="center">
-
-| Project | ⭐ Stars | 🍴 Forks | 📦 Installs | 🔀 Merged PRs | 🐞 Issues |
-|:--|:--:|:--:|:--:|:--:|:--:|
-| **[react-native-tour-guide](https://github.com/himanshu-lal4/react-native-tour-guide)** | ![stars](https://img.shields.io/github/stars/himanshu-lal4/react-native-tour-guide?style=flat-square&label=&labelColor=0D1117&color=21262D) | ![forks](https://img.shields.io/github/forks/himanshu-lal4/react-native-tour-guide?style=flat-square&label=&labelColor=0D1117&color=21262D) | [![installs](https://img.shields.io/npm/dm/@wrack/react-native-tour-guide?style=flat-square&label=&labelColor=0D1117&color=2F81F7)](https://www.npmjs.com/package/@wrack/react-native-tour-guide) | ![prs](https://img.shields.io/github/issues-pr-closed/himanshu-lal4/react-native-tour-guide?style=flat-square&label=&labelColor=0D1117&color=21262D) | ![issues](https://img.shields.io/github/issues/himanshu-lal4/react-native-tour-guide?style=flat-square&label=&labelColor=0D1117&color=21262D) |
-| **[react-native-liquid-glassmorphism](https://github.com/himanshu-lal4/react-native-liquid-glassmorphism)** | ![stars](https://img.shields.io/github/stars/himanshu-lal4/react-native-liquid-glassmorphism?style=flat-square&label=&labelColor=0D1117&color=21262D) | ![forks](https://img.shields.io/github/forks/himanshu-lal4/react-native-liquid-glassmorphism?style=flat-square&label=&labelColor=0D1117&color=21262D) | [![installs](https://img.shields.io/npm/dm/react-native-liquid-glassmorphism?style=flat-square&label=&labelColor=0D1117&color=2F81F7)](https://www.npmjs.com/package/react-native-liquid-glassmorphism) | ![prs](https://img.shields.io/github/issues-pr-closed/himanshu-lal4/react-native-liquid-glassmorphism?style=flat-square&label=&labelColor=0D1117&color=21262D) | ![issues](https://img.shields.io/github/issues/himanshu-lal4/react-native-liquid-glassmorphism?style=flat-square&label=&labelColor=0D1117&color=21262D) |
-
+<table>
+<thead>
+<tr>
+<th align="center">Project</th>
+<th align="center">⭐ Stars</th>
+<th align="center">🍴 Forks</th>
+<th align="center">📦 Installs</th>
+<th align="center">🔀 Merged PRs</th>
+<th align="center">🐞 Issues</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><b><a href="https://github.com/himanshu-lal4/react-native-tour-guide">react-native-tour-guide</a></b></td>
+<td align="center"><img src="https://img.shields.io/github/stars/himanshu-lal4/react-native-tour-guide?style=flat-square&label=&labelColor=0D1117&color=21262D" alt="stars"></td>
+<td align="center"><img src="https://img.shields.io/github/forks/himanshu-lal4/react-native-tour-guide?style=flat-square&label=&labelColor=0D1117&color=21262D" alt="forks"></td>
+<td align="center"><a href="https://www.npmjs.com/package/@wrack/react-native-tour-guide"><img src="https://img.shields.io/npm/dm/@wrack/react-native-tour-guide?style=flat-square&label=&labelColor=0D1117&color=2F81F7" alt="installs"></a></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr-closed/himanshu-lal4/react-native-tour-guide?style=flat-square&label=&labelColor=0D1117&color=21262D" alt="merged prs"></td>
+<td align="center"><img src="https://img.shields.io/github/issues/himanshu-lal4/react-native-tour-guide?style=flat-square&label=&labelColor=0D1117&color=21262D" alt="issues"></td>
+</tr>
+<tr>
+<td align="left"><b><a href="https://github.com/himanshu-lal4/react-native-liquid-glassmorphism">react-native-liquid-glassmorphism</a></b></td>
+<td align="center"><img src="https://img.shields.io/github/stars/himanshu-lal4/react-native-liquid-glassmorphism?style=flat-square&label=&labelColor=0D1117&color=21262D" alt="stars"></td>
+<td align="center"><img src="https://img.shields.io/github/forks/himanshu-lal4/react-native-liquid-glassmorphism?style=flat-square&label=&labelColor=0D1117&color=21262D" alt="forks"></td>
+<td align="center"><a href="https://www.npmjs.com/package/react-native-liquid-glassmorphism"><img src="https://img.shields.io/npm/dm/react-native-liquid-glassmorphism?style=flat-square&label=&labelColor=0D1117&color=2F81F7" alt="installs"></a></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr-closed/himanshu-lal4/react-native-liquid-glassmorphism?style=flat-square&label=&labelColor=0D1117&color=21262D" alt="merged prs"></td>
+<td align="center"><img src="https://img.shields.io/github/issues/himanshu-lal4/react-native-liquid-glassmorphism?style=flat-square&label=&labelColor=0D1117&color=21262D" alt="issues"></td>
+</tr>
+</tbody>
+</table>
 </div>
 
 ---
