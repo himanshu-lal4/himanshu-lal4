@@ -27,6 +27,12 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 - 💡 Always open to **new ideas worth building** — [let's connect](mailto:himanshulal56@gmail.com)
 - 🌱 Contributors welcome on my libraries — roadmaps and `good first issue` labels are live on [tour-guide](https://github.com/himanshu-lal4/react-native-tour-guide/issues/9) and [liquid-glassmorphism](https://github.com/himanshu-lal4/react-native-liquid-glassmorphism/issues/23)
 
+<p align="center">
+  <a href="https://github.com/sponsors/himanshu-lal4"><img src="https://img.shields.io/badge/Sponsor_my_work-21262D?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" alt="Sponsor"></a>
+  <br>
+  <sub>If my libraries save you time, sponsoring keeps them maintained.</sub>
+</p>
+
 ---
 
 ### Tech Stack
@@ -144,14 +150,6 @@ Figma plugin that scores a file's AI-readiness 0–100 and fixes detached styles
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/sponsors/himanshu-lal4"><img src="https://img.shields.io/badge/Sponsor-21262D?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" alt="Sponsor"></a>
-</p>
-
-<p align="center">
-  <sub>If my libraries save you time, sponsoring keeps them maintained.</sub>
-</p>
 
 <p align="center">
   <sub><a href="https://wrack.dev">wrack.dev</a></sub>
