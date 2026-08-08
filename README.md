@@ -62,6 +62,7 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 <p align="center">
   <a href="https://github.com/sponsors/himanshu-lal4"><img src="https://img.shields.io/badge/GitHub_Sponsors-21262D?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
+  <a href="https://buymeacoffee.com/wrack"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-21262D?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00" alt="Buy Me a Coffee"></a>
 </p>
 
 <p align="center">
