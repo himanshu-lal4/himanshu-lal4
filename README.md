@@ -35,6 +35,15 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 ---
 
+### Open Source Projects
+
+| Project | Stars | Forks | Installs | Pull Requests | Issues |
+|:--|:--:|:--:|:--:|:--:|:--:|
+| **[react-native-tour-guide](https://github.com/himanshu-lal4/react-native-tour-guide)** | ![stars](https://img.shields.io/github/stars/himanshu-lal4/react-native-tour-guide?style=flat-square&label=&labelColor=0D1117&color=21262D) | ![forks](https://img.shields.io/github/forks/himanshu-lal4/react-native-tour-guide?style=flat-square&label=&labelColor=0D1117&color=21262D) | [![installs](https://img.shields.io/npm/dm/@wrack/react-native-tour-guide?style=flat-square&label=&labelColor=0D1117&color=21262D)](https://www.npmjs.com/package/@wrack/react-native-tour-guide) | ![prs](https://img.shields.io/github/issues-pr-closed/himanshu-lal4/react-native-tour-guide?style=flat-square&label=&labelColor=0D1117&color=21262D) | ![issues](https://img.shields.io/github/issues/himanshu-lal4/react-native-tour-guide?style=flat-square&label=&labelColor=0D1117&color=21262D) |
+| **[react-native-liquid-glassmorphism](https://github.com/himanshu-lal4/react-native-liquid-glassmorphism)** | ![stars](https://img.shields.io/github/stars/himanshu-lal4/react-native-liquid-glassmorphism?style=flat-square&label=&labelColor=0D1117&color=21262D) | ![forks](https://img.shields.io/github/forks/himanshu-lal4/react-native-liquid-glassmorphism?style=flat-square&label=&labelColor=0D1117&color=21262D) | [![installs](https://img.shields.io/npm/dm/react-native-liquid-glassmorphism?style=flat-square&label=&labelColor=0D1117&color=21262D)](https://www.npmjs.com/package/react-native-liquid-glassmorphism) | ![prs](https://img.shields.io/github/issues-pr-closed/himanshu-lal4/react-native-liquid-glassmorphism?style=flat-square&label=&labelColor=0D1117&color=21262D) | ![issues](https://img.shields.io/github/issues/himanshu-lal4/react-native-liquid-glassmorphism?style=flat-square&label=&labelColor=0D1117&color=21262D) |
+
+---
+
 ### Tech Stack
 
 **Languages**
