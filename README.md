@@ -1,8 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" alt="Himanshu Lal — Mobile Engineer" width="100%">
-</picture>
+<h1 align="center">Hey 👋, I'm Wrack</h1>
+
+<p align="center">
+  Himanshu Lal &nbsp;·&nbsp; <b>Mobile Engineer</b> &nbsp;·&nbsp; React Native, Swift, Kotlin &nbsp;·&nbsp; Noida, India
+</p>
 
 <p align="center">
   <a href="https://wrack.dev"><img src="https://img.shields.io/badge/Portfolio-wrack.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
