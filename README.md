@@ -146,5 +146,13 @@ Figma plugin that scores a file's AI-readiness 0–100 and fixes detached styles
 ---
 
 <p align="center">
+  <a href="https://github.com/sponsors/himanshu-lal4"><img src="https://img.shields.io/badge/Sponsor-21262D?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" alt="Sponsor"></a>
+</p>
+
+<p align="center">
+  <sub>If my libraries save you time, sponsoring keeps them maintained.</sub>
+</p>
+
+<p align="center">
   <sub><a href="https://wrack.dev">wrack.dev</a></sub>
 </p>
