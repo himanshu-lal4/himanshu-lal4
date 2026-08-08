@@ -109,70 +109,31 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 ---
 
-### Live Demos
+### Other Projects
 
+<div align="center">
 <table>
+<thead>
 <tr>
-<td align="center" width="25%"><img src="assets/tour-guide-ios-poster.png" width="150"><br><sub><b>Tour Guide · iOS</b></sub></td>
-<td align="center" width="25%"><img src="assets/tour-guide-android-poster.png" width="150"><br><sub><b>Tour Guide · Android</b></sub></td>
-<td align="center" width="25%"><img src="assets/liquid-glass-ios-poster.png" width="150"><br><sub><b>Liquid Glass · iOS</b></sub></td>
-<td align="center" width="25%"><img src="assets/liquid-glass-android-poster.png" width="150"><br><sub><b>Liquid Glass · Android</b></sub></td>
+<th align="center">Project</th>
+<th align="center">What it is</th>
+<th align="center">Links</th>
 </tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><b><a href="https://snoozewar.com">🌙 SnoozeWar</a></b></td>
+<td align="left">An app that fixes your sleep–wake cycle using what sleep science says actually works. Escape-resistant wake-up missions, bedtime app blocking, sleep-debt tracking. Built solo — product, app, backend, launch.</td>
+<td align="center"><a href="https://play.google.com/store/apps/details?id=com.snoozewar.app"><img src="https://img.shields.io/badge/Google_Play-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=googleplay&logoColor=FFFFFF" alt="Google Play"></a><br><a href="https://snoozewar.com"><img src="https://img.shields.io/badge/Website-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=safari&logoColor=FFFFFF" alt="Website"></a></td>
+</tr>
+<tr>
+<td align="left"><b><a href="https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor">🎨 Design System Auditor</a></b></td>
+<td align="left">Figma plugin that scores a file's AI-readiness 0–100 and fixes detached styles and token drift, so code generation from Figma actually works.</td>
+<td align="center"><a href="https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor"><img src="https://img.shields.io/badge/Figma_Community-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=figma&logoColor=F24E1E" alt="Figma"></a></td>
+</tr>
+</tbody>
 </table>
-
----
-
-### Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="assets/cover-tour-guide.png" width="100%">
-
-#### [react-native-tour-guide](https://github.com/himanshu-lal4/react-native-tour-guide)
-
-Spotlight onboarding, walkthroughs and coach marks. Auto shape-matching SVG masks, smart auto-scroll, themeable tooltips. Zero native dependencies.
-
-[![npm](https://img.shields.io/npm/dm/@wrack/react-native-tour-guide?style=flat-square&label=downloads&labelColor=0D1117&color=2F81F7)](https://www.npmjs.com/package/@wrack/react-native-tour-guide)
-[![stars](https://img.shields.io/github/stars/himanshu-lal4/react-native-tour-guide?style=flat-square&labelColor=0D1117&color=2F81F7)](https://github.com/himanshu-lal4/react-native-tour-guide)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="assets/cover-liquid-glass.png" width="100%">
-
-#### [react-native-liquid-glassmorphism](https://github.com/himanshu-lal4/react-native-liquid-glassmorphism)
-
-Liquid glass on both platforms. `UIGlassEffect` on iOS, hand-written AGSL refraction shaders on Android. New Architecture ready.
-
-[![npm](https://img.shields.io/npm/dm/react-native-liquid-glassmorphism?style=flat-square&label=downloads&labelColor=0D1117&color=2F81F7)](https://www.npmjs.com/package/react-native-liquid-glassmorphism)
-[![stars](https://img.shields.io/github/stars/himanshu-lal4/react-native-liquid-glassmorphism?style=flat-square&labelColor=0D1117&color=2F81F7)](https://github.com/himanshu-lal4/react-native-liquid-glassmorphism)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌙 [SnoozeWar](https://snoozewar.com)
-
-An app that fixes your sleep–wake cycle using what sleep science says actually works. Escape-resistant wake-up missions, bedtime app blocking, sleep-debt tracking. Built solo — product, app, backend, launch.
-
-[![Play Store](https://img.shields.io/badge/Google_Play-21262D?style=flat-square&logo=googleplay&logoColor=FFFFFF)](https://play.google.com/store/apps/details?id=com.snoozewar.app)
-[![Website](https://img.shields.io/badge/snoozewar.com-21262D?style=flat-square&logo=safari&logoColor=FFFFFF)](https://snoozewar.com)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎨 [Design System Auditor](https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor)
-
-Figma plugin that scores a file's AI-readiness 0–100 and fixes detached styles and token drift, so code generation from Figma actually works.
-
-[![Figma](https://img.shields.io/badge/Figma_Community-21262D?style=flat-square&logo=figma&logoColor=F24E1E)](https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
