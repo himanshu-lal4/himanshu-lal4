@@ -102,38 +102,34 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 ### Tech Stack
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=5AA9EE)
-![Swift](https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=F05138)
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-
-**Mobile & Web**
-
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=A88BE3)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FF7043)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098)
-
-**Testing, CI/CD & Tooling**
-
-![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=F0554A)
-![Detox](https://img.shields.io/badge/Detox-0D1117?style=for-the-badge&logo=testcafe&logoColor=36B6C8)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Fastlane](https://img.shields.io/badge/Fastlane-0D1117?style=for-the-badge&logo=fastlane&logoColor=00F200)
-![Sentry](https://img.shields.io/badge/Sentry-0D1117?style=for-the-badge&logo=sentry&logoColor=C08FD1)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+<div align="center">
+<table>
+<thead>
+<tr>
+<th align="center" width="26%">Area</th>
+<th align="center" width="74%">Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><b>Languages</b></td>
+<td align="left"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=5AA9EE" alt=""> <img src="https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=F05138" alt=""> <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt=""> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=""> <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt=""></td>
+</tr>
+<tr>
+<td align="left"><b>Mobile & Web</b></td>
+<td align="left"><img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""> <img src="https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=FFFFFF" alt=""> <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""> <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt=""> <img src="https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=A88BE3" alt=""></td>
+</tr>
+<tr>
+<td align="left"><b>Backend & Data</b></td>
+<td align="left"><img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt=""> <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FF7043" alt=""> <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt=""> <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" alt=""> <img src="https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098" alt=""></td>
+</tr>
+<tr>
+<td align="left"><b>Testing, CI/CD & Tooling</b></td>
+<td align="left"><img src="https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=F0554A" alt=""> <img src="https://img.shields.io/badge/Detox-0D1117?style=for-the-badge&logo=testcafe&logoColor=36B6C8" alt=""> <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt=""> <img src="https://img.shields.io/badge/Fastlane-0D1117?style=for-the-badge&logo=fastlane&logoColor=00F200" alt=""> <img src="https://img.shields.io/badge/Sentry-0D1117?style=for-the-badge&logo=sentry&logoColor=C08FD1" alt=""> <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt=""></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ---
 
