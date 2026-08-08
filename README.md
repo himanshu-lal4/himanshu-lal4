@@ -72,6 +72,34 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 ---
 
+### Other Projects
+
+<div align="center">
+<table>
+<thead>
+<tr>
+<th align="center">Project</th>
+<th align="center">What it is</th>
+<th align="center">Links</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><b><a href="https://snoozewar.com">🌙 SnoozeWar</a></b></td>
+<td align="left">An app that fixes your sleep–wake cycle using what sleep science says actually works. Escape-resistant wake-up missions, bedtime app blocking, sleep-debt tracking. Built solo — product, app, backend, launch.</td>
+<td align="center"><a href="https://play.google.com/store/apps/details?id=com.snoozewar.app"><img src="https://img.shields.io/badge/Google_Play-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=googleplay&logoColor=FFFFFF" alt="Google Play"></a><br><a href="https://snoozewar.com"><img src="https://img.shields.io/badge/Website-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=safari&logoColor=FFFFFF" alt="Website"></a></td>
+</tr>
+<tr>
+<td align="left"><b><a href="https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor">🎨 Design System Auditor</a></b></td>
+<td align="left">Figma plugin that scores a file's AI-readiness 0–100 and fixes detached styles and token drift, so code generation from Figma actually works.</td>
+<td align="center"><a href="https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor"><img src="https://img.shields.io/badge/Figma_Community-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=figma&logoColor=F24E1E" alt="Figma"></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+---
+
 ### Tech Stack
 
 **Languages**
@@ -106,34 +134,6 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 ![Fastlane](https://img.shields.io/badge/Fastlane-0D1117?style=for-the-badge&logo=fastlane&logoColor=00F200)
 ![Sentry](https://img.shields.io/badge/Sentry-0D1117?style=for-the-badge&logo=sentry&logoColor=C08FD1)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
----
-
-### Other Projects
-
-<div align="center">
-<table>
-<thead>
-<tr>
-<th align="center">Project</th>
-<th align="center">What it is</th>
-<th align="center">Links</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><b><a href="https://snoozewar.com">🌙 SnoozeWar</a></b></td>
-<td align="left">An app that fixes your sleep–wake cycle using what sleep science says actually works. Escape-resistant wake-up missions, bedtime app blocking, sleep-debt tracking. Built solo — product, app, backend, launch.</td>
-<td align="center"><a href="https://play.google.com/store/apps/details?id=com.snoozewar.app"><img src="https://img.shields.io/badge/Google_Play-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=googleplay&logoColor=FFFFFF" alt="Google Play"></a><br><a href="https://snoozewar.com"><img src="https://img.shields.io/badge/Website-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=safari&logoColor=FFFFFF" alt="Website"></a></td>
-</tr>
-<tr>
-<td align="left"><b><a href="https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor">🎨 Design System Auditor</a></b></td>
-<td align="left">Figma plugin that scores a file's AI-readiness 0–100 and fixes detached styles and token drift, so code generation from Figma actually works.</td>
-<td align="center"><a href="https://www.figma.com/community/plugin/1604611697351063503/figma-design-system-auditor"><img src="https://img.shields.io/badge/Figma_Community-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=figma&logoColor=F24E1E" alt="Figma"></a></td>
-</tr>
-</tbody>
-</table>
-</div>
 
 ---
 
