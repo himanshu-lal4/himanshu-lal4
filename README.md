@@ -22,6 +22,7 @@
 
 Currently a Software Engineer & Release Manager at [Tap Health](https://tap.health), an author of open-source developer tools published on [npm](https://www.npmjs.com/~wrack), and founder of [SnoozeWar](https://snoozewar.com). I ship mobile and web apps, drop down to native code when the platform demands it, and own the release pipeline to both stores.
 
+- 🤣 I'm currently learning **everything**
 - 🚀 Shipped **40+ releases** across iOS and Android, and own both store pipelines
 - ⚙️ Led a **React Native 0.68 → 0.80** upgrade, migrating native modules from Java and Objective-C to **Kotlin and Swift**
 - 📦 My libraries are installed **~7,000 times a month** on npm
