@@ -32,6 +32,7 @@ jobs:
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add assets/snake-*.svg
             git commit -m "Refresh contribution snake"
+            git pull --rebase --autostash origin main
             git push
           else
             echo "no change"
