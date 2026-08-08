@@ -85,7 +85,7 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 </thead>
 <tbody>
 <tr>
-<td align="left"><b><a href="https://snoozewar.com">🌙 SnoozeWar</a></b></td>
+<td align="left"><b><a href="https://snoozewar.com"><img src="assets/snoozewar-icon.png" width="20" align="absmiddle">&nbsp; SnoozeWar</a></b></td>
 <td align="left">An app that fixes your sleep–wake cycle using what sleep science says actually works. Escape-resistant wake-up missions, bedtime app blocking, sleep-debt tracking. Built solo — product, app, backend, launch.</td>
 <td align="center"><a href="https://play.google.com/store/apps/details?id=com.snoozewar.app"><img src="https://img.shields.io/badge/Google_Play-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=googleplay&logoColor=FFFFFF" alt="Google Play"></a><br><a href="https://snoozewar.com"><img src="https://img.shields.io/badge/Website-21262D?style=flat-square&labelColor=0D1117&color=21262D&logo=safari&logoColor=FFFFFF" alt="Website"></a></td>
 </tr>
