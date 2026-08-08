@@ -11,6 +11,10 @@
   <a href="https://www.npmjs.com/~wrack"><img src="https://img.shields.io/badge/npm-21262D?style=for-the-badge&logo=npm&logoColor=F2544B" alt="npm"></a>
   <a href="https://peerlist.io/wrack"><img src="https://img.shields.io/badge/Peerlist-21262D?style=for-the-badge&logo=peerlist&logoColor=2ED26B" alt="Peerlist"></a>
   <a href="https://dev.to/wrack"><img src="https://img.shields.io/badge/dev.to-21262D?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
+  <a href="https://x.com/Himanshu_lal4"><img src="https://cdn.simpleicons.org/x/8B949E" width="30" height="30" alt="X"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.threads.com/@himanshu__lal"><img src="https://cdn.simpleicons.org/threads/8B949E" width="30" height="30" alt="Threads"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/himanshu__lal"><img src="https://cdn.simpleicons.org/instagram/8B949E" width="30" height="30" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/wrack_04"><img src="https://cdn.simpleicons.org/reddit/8B949E" width="30" height="30" alt="Reddit"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:himanshulal56@gmail.com"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
 </p>
 
