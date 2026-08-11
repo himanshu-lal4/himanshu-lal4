@@ -1,4 +1,4 @@
-name: Refresh stat badges
+name: Refresh stat badges and streak card
 
 on:
   schedule:
@@ -25,13 +25,35 @@ jobs:
       - name: Generate badges
         run: python scripts/gen_stat_badges.py
 
+      - name: Mirror the streak card
+        # The upstream service routinely takes 15-30s to answer. GitHub's image
+        # proxy gives up long before that, which is why the live URL rendered as
+        # a broken image. Fetching it here instead - where a slow response costs
+        # nothing - and committing the SVG means the README serves a local file.
+        # On failure the previous copy is kept: a stale card beats a blank one.
+        run: |
+          set -uo pipefail
+          URL="https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&hide_border=true&background=00000000&stroke=30363d&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=8b949e&dates=8b949e&sideNums=8b949e&currStreakNum=8b949e&excludeDaysLabel=8b949e"
+          mkdir -p assets
+          for attempt in 1 2 3; do
+            if curl -sS --max-time 90 -L "$URL" -o /tmp/streak.svg \
+               && head -c 200 /tmp/streak.svg | grep -q "<svg"; then
+              mv /tmp/streak.svg assets/streak.svg
+              echo "streak card refreshed (attempt $attempt)"
+              exit 0
+            fi
+            echo "attempt $attempt failed"
+            sleep 15
+          done
+          echo "::warning::streak card fetch failed three times - keeping the previous copy"
+
       - name: Commit if changed
         run: |
-          if [[ -n "$(git status --porcelain assets/badges)" ]]; then
+          if [[ -n "$(git status --porcelain assets/badges assets/streak.svg)" ]]; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add assets/badges
-            git commit -m "Refresh stat badges"
+            git add assets/badges assets/streak.svg
+            git commit -m "Refresh stat badges and streak card"
             git pull --rebase --autostash origin main
             git push
           else
