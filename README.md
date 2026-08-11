@@ -112,7 +112,7 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 </p>
 
 <p align="center">
-  <img width="700" src="assets/streak.svg" alt="total contributions, current streak, longest streak" title="Refreshed daily in CI - the upstream service is too slow for GitHub to fetch live">
+  <img width="700" src="assets/streak-card.svg" alt="total contributions, current streak, longest streak" title="Refreshed daily in CI - the upstream service is too slow for GitHub to fetch live">
 </p>
 
 <p align="center">

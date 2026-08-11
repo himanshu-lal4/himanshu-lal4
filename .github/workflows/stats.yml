@@ -42,7 +42,7 @@ jobs:
           for attempt in 1 2 3; do
             if curl -sS --max-time 90 -L "$URL" -o /tmp/streak.svg \
                && head -c 200 /tmp/streak.svg | grep -q "<svg"; then
-              mv /tmp/streak.svg assets/streak.svg
+              mv /tmp/streak.svg assets/streak-card.svg
               echo "streak card refreshed (attempt $attempt)"
               exit 0
             fi
@@ -53,10 +53,10 @@ jobs:
 
       - name: Commit if changed
         run: |
-          if [[ -n "$(git status --porcelain assets/badges assets/streak.svg)" ]]; then
+          if [[ -n "$(git status --porcelain assets/badges assets/streak-card.svg)" ]]; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add assets/badges assets/streak.svg
+            git add assets/badges assets/streak-card.svg
             git commit -m "Refresh stat badges and streak card"
             git pull --rebase --autostash origin main
             git push
