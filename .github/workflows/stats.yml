@@ -30,10 +30,14 @@ jobs:
         # proxy gives up long before that, which is why the live URL rendered as
         # a broken image. Fetching it here instead - where a slow response costs
         # nothing - and committing the SVG means the README serves a local file.
+        # disable_animations=true is REQUIRED: the animated variant ships a
+        # <style> block with 12 opacity:0 rules that fade elements in. GitHub
+        # sanitises SVGs served from a repo and strips that block, so every
+        # element stays at opacity 0 and the card renders as an empty box.
         # On failure the previous copy is kept: a stale card beats a blank one.
         run: |
           set -uo pipefail
-          URL="https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&hide_border=true&background=00000000&stroke=30363d&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=8b949e&dates=8b949e&sideNums=8b949e&currStreakNum=8b949e&excludeDaysLabel=8b949e"
+          URL="https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&hide_border=true&background=00000000&stroke=30363d&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=8b949e&dates=8b949e&sideNums=8b949e&currStreakNum=8b949e&excludeDaysLabel=8b949e&disable_animations=true"
           mkdir -p assets
           for attempt in 1 2 3; do
             if curl -sS --max-time 90 -L "$URL" -o /tmp/streak.svg \
