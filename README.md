@@ -43,9 +43,11 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
   <a href="https://www.npmjs.com/~wrack"><img src="https://cdn.simpleicons.org/npm/8B949E" width="30" height="30" alt="npm" title="npm — published packages (@wrack)"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://peerlist.io/wrack"><img src="https://cdn.simpleicons.org/peerlist/8B949E" width="30" height="30" alt="Peerlist" title="Peerlist — peerlist.io/wrack"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/wrack"><img src="https://cdn.simpleicons.org/devdotto/8B949E" width="30" height="30" alt="dev.to" title="dev.to — articles on RN internals and native shaders"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://daily.dev/wrack"><img src="https://cdn.simpleicons.org/dailydotdev/8B949E" width="30" height="30" alt="daily.dev" title="daily.dev — daily.dev/wrack"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@himanshulal56"><img src="https://cdn.simpleicons.org/medium/8B949E" width="30" height="30" alt="Medium" title="Medium — @himanshulal56"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Himanshu_lal/"><img src="https://cdn.simpleicons.org/leetcode/8B949E" width="30" height="30" alt="LeetCode" title="LeetCode — Himanshu_lal"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/himanshu_lal"><img src="https://cdn.simpleicons.org/codechef/8B949E" width="30" height="30" alt="CodeChef" title="CodeChef — himanshu_lal"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/24055393/wrack"><img src="https://cdn.simpleicons.org/stackoverflow/8B949E" width="30" height="30" alt="Stack Overflow" title="Stack Overflow — wrack"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/himanshu_lal"><img src="https://cdn.simpleicons.org/hackerrank/8B949E" width="30" height="30" alt="HackerRank" title="HackerRank — himanshu_lal"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -127,6 +129,10 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
     <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
     <img width="700" src="assets/snake-light.svg" alt="contribution snake" title="Snake eating my contribution grid — regenerated daily">
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://daily.dev/wrack"><img src="https://api.daily.dev/devcards/v2/Z3qLURyOpih8KthNE2h04.png?type=default&r=r1n" width="356" alt="Wrack's Dev Card" title="daily.dev — reading and writing about mobile, native and open source"></a>
 </p>
 
 ---
