@@ -99,7 +99,7 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 </p>
 
 <p align="center">
-  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-lal4&hide_border=true&background=00000000&stroke=30363d&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=8b949e&dates=8b949e&sideNums=8b949e&currStreakNum=8b949e&excludeDaysLabel=8b949e" alt="total contributions, current streak, longest streak">
+  <img width="700" src="assets/streak.svg" alt="total contributions, current streak, longest streak" title="Refreshed daily in CI - the upstream service is too slow for GitHub to fetch live">
 </p>
 
 <p align="center">
