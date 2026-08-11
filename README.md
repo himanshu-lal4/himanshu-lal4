@@ -86,8 +86,21 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/05-telemetry.svg">
-  <img src="assets/sections/05-telemetry.svg" alt="TELEMETRY" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/05-reading.svg">
+  <img src="assets/sections/05-reading.svg" alt="READING" width="100%">
+</picture>
+
+<br>
+
+<p align="center">
+  <a href="https://daily.dev/wrack"><img src="https://api.daily.dev/devcards/v2/Z3qLURyOpih8KthNE2h04.png?type=wide&r=pqk" width="652" alt="Wrack's Dev Card" title="daily.dev — reading and writing about mobile, native and open source"></a>
+</p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/06-telemetry.svg">
+  <img src="assets/sections/06-telemetry.svg" alt="TELEMETRY" width="100%">
 </picture>
 
 <br>
@@ -131,15 +144,12 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://daily.dev/wrack"><img src="https://api.daily.dev/devcards/v2/Z3qLURyOpih8KthNE2h04.png?type=wide&r=pqk" width="652" alt="Wrack's Dev Card" title="daily.dev — reading and writing about mobile, native and open source"></a>
-</p>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/06-open-source.svg">
-  <img src="assets/sections/06-open-source.svg" alt="OPEN SOURCE" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/07-open-source.svg">
+  <img src="assets/sections/07-open-source.svg" alt="OPEN SOURCE" width="100%">
 </picture>
 
 <div align="center">
@@ -178,8 +188,8 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/07-other-projects.svg">
-  <img src="assets/sections/07-other-projects.svg" alt="OTHER PROJECTS" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/08-other-projects.svg">
+  <img src="assets/sections/08-other-projects.svg" alt="OTHER PROJECTS" width="100%">
 </picture>
 
 <div align="center">
@@ -209,8 +219,8 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/08-stack.svg">
-  <img src="assets/sections/08-stack.svg" alt="STACK" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/dark/09-stack.svg">
+  <img src="assets/sections/09-stack.svg" alt="STACK" width="100%">
 </picture>
 
 <div align="center">
