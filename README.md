@@ -132,7 +132,7 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 </p>
 
 <p align="center">
-  <a href="https://daily.dev/wrack"><img src="https://api.daily.dev/devcards/v2/Z3qLURyOpih8KthNE2h04.png?type=wide&r=r1n" width="652" alt="Wrack's Dev Card" title="daily.dev — reading and writing about mobile, native and open source"></a>
+  <a href="https://daily.dev/wrack"><img src="https://api.daily.dev/devcards/v2/Z3qLURyOpih8KthNE2h04.png?type=wide&r=pqk" width="652" alt="Wrack's Dev Card" title="daily.dev — reading and writing about mobile, native and open source"></a>
 </p>
 
 ---
