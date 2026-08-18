@@ -117,19 +117,19 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu-lal4&theme=github_dark">
-    <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu-lal4&theme=github" alt="profile-details">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/profile-details-dark.svg">
+    <img width="700" src="assets/cards/profile-details-light.svg" alt="profile-details" title="Refreshed daily in CI - see scripts/mirror_cards.py">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshu-lal4&theme=github_dark">
-    <img width="346" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshu-lal4&theme=github" alt="stats">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/stats-dark.svg">
+    <img width="346" src="assets/cards/stats-light.svg" alt="stats" title="Refreshed daily in CI - see scripts/mirror_cards.py">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshu-lal4&theme=github_dark&utcOffset=5.5">
-    <img width="346" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshu-lal4&theme=github&utcOffset=5.5" alt="productive-time">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/productive-time-dark.svg">
+    <img width="346" src="assets/cards/productive-time-light.svg" alt="productive-time" title="Refreshed daily in CI - see scripts/mirror_cards.py">
   </picture>
 </p>
 
@@ -141,7 +141,7 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 </p>
 
 <p align="center">
-  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-lal4&bg_color=00000000&color=8b949e&line=2f81f7&point=2f81f7&area=true&hide_border=true" alt="activity graph">
+  <img width="700" src="assets/cards/activity-graph.svg" alt="activity graph" title="Refreshed daily in CI - see scripts/mirror_cards.py">
 </p>
 
 

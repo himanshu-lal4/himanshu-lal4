@@ -1,4 +1,4 @@
-name: Refresh stat badges and streak card
+name: Refresh stat badges, streak card and stat cards
 
 on:
   schedule:
@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - 'scripts/gen_stat_badges.py'
+      - 'scripts/mirror_cards.py'
       - '.github/workflows/stats.yml'
 
 permissions:
@@ -51,13 +52,24 @@ jobs:
           done
           echo "::warning::streak card fetch failed three times - keeping the previous copy"
 
+      - name: Mirror the stat cards
+        # The summary-card and activity-graph services share one GitHub API
+        # token pool across every profile that embeds them. When it runs dry
+        # they answer HTTP 200 with a placeholder reading "rate limited" or
+        # "Failed to retrieve contributions", and tell camo to cache it for up
+        # to four hours - which is how a transient blip ended up pinned to the
+        # profile as a red ERROR block. Mirroring here means a bad fetch costs
+        # nothing: the previous copy stays. The script also inlines the CSS
+        # these cards need, since GitHub strips <style> from repo-served SVGs.
+        run: python scripts/mirror_cards.py
+
       - name: Commit if changed
         run: |
-          if [[ -n "$(git status --porcelain assets/badges assets/streak-card.svg)" ]]; then
+          if [[ -n "$(git status --porcelain assets/badges assets/streak-card.svg assets/cards)" ]]; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add assets/badges assets/streak-card.svg
-            git commit -m "Refresh stat badges and streak card"
+            git add assets/badges assets/streak-card.svg assets/cards
+            git commit -m "Refresh stat badges, streak card and stat cards"
             git pull --rebase --autostash origin main
             git push
           else
