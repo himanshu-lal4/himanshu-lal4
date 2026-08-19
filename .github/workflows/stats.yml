@@ -2,7 +2,11 @@ name: Refresh stat badges, streak card and stat cards
 
 on:
   schedule:
-    - cron: '17 4 * * *'   # daily, 04:17 UTC
+    # Twice daily. The streak service failed at the 04:5x slot on two of
+    # three consecutive runs while an off-schedule 20:56 run succeeded, so a
+    # second window means a transient outage heals in 12h, not 24h.
+    - cron: '17 4 * * *'    # 04:17 UTC
+    - cron: '43 16 * * *'   # 16:43 UTC
   workflow_dispatch:
   push:
     paths:
@@ -26,41 +30,19 @@ jobs:
       - name: Generate badges
         run: python scripts/gen_stat_badges.py
 
-      - name: Mirror the streak card
-        # The upstream service routinely takes 15-30s to answer. GitHub's image
-        # proxy gives up long before that, which is why the live URL rendered as
-        # a broken image. Fetching it here instead - where a slow response costs
-        # nothing - and committing the SVG means the README serves a local file.
-        # disable_animations=true is REQUIRED: the animated variant ships a
-        # <style> block with 12 opacity:0 rules that fade elements in. GitHub
-        # sanitises SVGs served from a repo and strips that block, so every
-        # element stays at opacity 0 and the card renders as an empty box.
-        # On failure the previous copy is kept: a stale card beats a blank one.
-        run: |
-          set -uo pipefail
-          URL="https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&hide_border=true&background=00000000&stroke=30363d&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=8b949e&dates=8b949e&sideNums=8b949e&currStreakNum=8b949e&excludeDaysLabel=8b949e&disable_animations=true"
-          mkdir -p assets
-          for attempt in 1 2 3; do
-            if curl -sS --max-time 90 -L "$URL" -o /tmp/streak.svg \
-               && head -c 200 /tmp/streak.svg | grep -q "<svg"; then
-              mv /tmp/streak.svg assets/streak-card.svg
-              echo "streak card refreshed (attempt $attempt)"
-              exit 0
-            fi
-            echo "attempt $attempt failed"
-            sleep 15
-          done
-          echo "::warning::streak card fetch failed three times - keeping the previous copy"
-
       - name: Mirror the stat cards
-        # The summary-card and activity-graph services share one GitHub API
+        # The summary-card, activity-graph and streak services share one GitHub API
         # token pool across every profile that embeds them. When it runs dry
         # they answer HTTP 200 with a placeholder reading "rate limited" or
         # "Failed to retrieve contributions", and tell camo to cache it for up
         # to four hours - which is how a transient blip ended up pinned to the
         # profile as a red ERROR block. Mirroring here means a bad fetch costs
-        # nothing: the previous copy stays. The script also inlines the CSS
-        # these cards need, since GitHub strips <style> from repo-served SVGs.
+        # nothing: the previous copy stays. Crucially it validates the body
+        # rather than the status code - the placeholders come back as valid
+        # SVGs with HTTP 200, which is how the streak card's old `grep -q
+        # "<svg"` check let an error page be committed twice. The script also
+        # inlines the CSS these cards need, since GitHub strips <style> from
+        # repo-served SVGs.
         run: python scripts/mirror_cards.py
 
       - name: Commit if changed

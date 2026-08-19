@@ -42,10 +42,11 @@ import urllib.request
 
 USER = os.environ.get("PROFILE_USER", "himanshu-lal4")
 UTC_OFFSET = "5.5"
-OUT_DIR = "assets/cards"
+CARD_DIR = "assets/cards"
 
 SUMMARY = "https://github-profile-summary-cards.vercel.app/api/cards"
 ACTIVITY = "https://github-readme-activity-graph.vercel.app/graph"
+STREAK = "https://streak-stats.demolab.com/"
 
 # Font stack the cards ask for, minus the Windows-only head so it degrades
 # sensibly on the Linux and macOS machines that actually render the README.
@@ -73,17 +74,28 @@ KEEP = {
 
 
 def targets():
+    """(path, url, kind) for every mirrored image."""
     theme_pairs = (("dark", "github_dark"), ("light", "github"))
     for card, extra in (("profile-details", ""), ("stats", ""),
                         ("productive-time", f"&utcOffset={UTC_OFFSET}")):
         for suffix, theme in theme_pairs:
-            yield (f"{card}-{suffix}.svg",
+            yield (f"{CARD_DIR}/{card}-{suffix}.svg",
                    f"{SUMMARY}/{card}?username={USER}&theme={theme}{extra}",
                    "summary")
-    yield ("activity-graph.svg",
+    yield (f"{CARD_DIR}/activity-graph.svg",
            f"{ACTIVITY}?username={USER}&bg_color=00000000&color=8b949e"
            f"&line=2f81f7&point=2f81f7&area=true&hide_border=true",
            "activity")
+    # disable_animations is REQUIRED: the animated variant ships a <style>
+    # block of opacity:0 rules that fade elements in. GitHub strips it from a
+    # repo-served SVG, leaving every element at opacity 0 - an empty box.
+    yield ("assets/streak-card.svg",
+           f"{STREAK}?user={USER}&hide_border=true&background=00000000"
+           f"&stroke=30363d&ring=F97316&fire=F97316&currStreakLabel=F97316"
+           f"&sideLabels=8b949e&dates=8b949e&sideNums=8b949e"
+           f"&currStreakNum=8b949e&excludeDaysLabel=8b949e"
+           f"&disable_animations=true",
+           "summary")
 
 
 def fetch(url, attempts=3):
@@ -262,16 +274,31 @@ def set_root_font(svg):
     return re.sub(r"<svg[^>]*>", once, svg, count=1)
 
 
+def usable_copy(path):
+    """True if the file on disk is a real card rather than a stored error page.
+
+    Without this check a placeholder committed by an earlier run would satisfy
+    "keep the previous copy" forever, and the profile would show the error
+    indefinitely while CI reported nothing worse than a warning. That is
+    exactly how the streak card sat broken.
+    """
+    if not os.path.exists(path):
+        return False
+    with open(path) as f:
+        body = f.read()
+    return not any(m.lower() in body.lower() for m in ERROR_MARKERS)
+
+
 def main():
-    os.makedirs(OUT_DIR, exist_ok=True)
     failures = []
-    for name, url, kind in targets():
-        path = os.path.join(OUT_DIR, name)
+    for path, url, kind in targets():
+        name = os.path.basename(path)
+        os.makedirs(os.path.dirname(path), exist_ok=True)
         print(f"  {name}")
         body = fetch(url)
         if body is None:
-            have = os.path.exists(path)
-            print(f"    FAILED - {'keeping previous copy' if have else 'NO PREVIOUS COPY'}")
+            have = usable_copy(path)
+            print(f"    FAILED - {'keeping previous copy' if have else 'NO USABLE PREVIOUS COPY'}")
             failures.append((name, have))
             continue
         svg = inline_css(body) if kind == "activity" else re.sub(
@@ -285,7 +312,7 @@ def main():
         for name, have in failures:
             level = "warning" if have else "error"
             print(f"::{level}::{name} could not be refreshed"
-                  f"{' and has no previous copy' if not have else ''}")
+                  f"{' and the stored copy is unusable - the README is showing a broken card' if not have else ''}")
         # Only fail the job if a card would render as a missing image.
         if any(not have for _, have in failures):
             return 1
