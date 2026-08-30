@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="119" height="28" viewBox="0 0 119 28" role="img" aria-label="NPM: 25K">
-  <title>NPM: 25K</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="137" height="28" viewBox="0 0 137 28" role="img" aria-label="NPM: 26.2K">
+  <title>NPM: 26.2K</title>
   <rect width="68" height="28" fill="#EAEEF2"/>
-  <rect x="68" width="51" height="28" fill="#0969DA"/>
+  <rect x="68" width="69" height="28" fill="#0969DA"/>
   <text x="12" y="18" fill="#1F2328" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="10" font-weight="bold" letter-spacing="1.1">NPM</text>
   <g transform="translate(42,7) scale(0.583)" fill="#1F2328"><path d="M12 15.6l-5-5 1.4-1.4 2.6 2.6V3h2v8.8l2.6-2.6L17 10.6l-5 5zM5 18h14v2H5z"/></g>
-  <text x="93.5" y="18" fill="#FFFFFF" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="11" font-weight="bold" text-anchor="middle">25K</text>
+  <text x="102.5" y="18" fill="#FFFFFF" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="11" font-weight="bold" text-anchor="middle">26.2K</text>
 </svg>
