@@ -13,6 +13,7 @@ on:
   push:
     paths:
       - 'scripts/gen_stat_badges.py'
+      - 'scripts/gen_activity_graph.py'
       - 'scripts/mirror_cards.py'
       - '.github/workflows/stats.yml'
 
@@ -31,6 +32,14 @@ jobs:
 
       - name: Generate badges
         run: python scripts/gen_stat_badges.py
+
+      - name: Draw the activity graph
+        # Drawn from GitHub's own contributionsCollection rather than mirrored:
+        # the shared service this replaced went to 402 Payment Required on
+        # 2026-08-24 and froze the card for 16 days behind a green tick.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/gen_activity_graph.py
 
       - name: Mirror the stat cards
         # The summary-card, activity-graph and streak services share one GitHub API

@@ -141,7 +141,10 @@ Currently a Software Engineer & Release Manager at [Tap Health](https://tap.heal
 </p>
 
 <p align="center">
-  <img width="700" src="assets/cards/activity-graph.svg" alt="activity graph" title="Refreshed daily in CI - see scripts/mirror_cards.py">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/activity-graph-dark.svg">
+    <img width="700" src="assets/cards/activity-graph-light.svg" alt="activity graph" title="Drawn daily in CI from GitHub's contributions API - see scripts/gen_activity_graph.py">
+  </picture>
 </p>
 
 
