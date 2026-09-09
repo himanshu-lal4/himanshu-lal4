@@ -5,8 +5,10 @@ on:
     # Twice daily. The streak service failed at the 04:5x slot on two of
     # three consecutive runs while an off-schedule 20:56 run succeeded, so a
     # second window means a transient outage heals in 12h, not 24h.
-    - cron: '17 4 * * *'    # 04:17 UTC
-    - cron: '43 16 * * *'   # 16:43 UTC
+    # Primary refresh at 12:29 UTC = 17:59 IST. Staggered three minutes off
+    # snake.yml so the two workflows in this repo never push at the same time.
+    - cron: '29 12 * * *'   # 12:29 UTC -> ~18:00 IST
+    - cron: '43 16 * * *'   # 16:43 UTC -> 22:13 IST, the repair window
   workflow_dispatch:
   push:
     paths:

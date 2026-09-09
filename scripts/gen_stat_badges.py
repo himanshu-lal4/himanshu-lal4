@@ -44,12 +44,43 @@ def fetch_stars():
     return total
 
 
+# The npm downloads API caps any single range at 18 months. It does NOT reject
+# an over-long one -- it answers 200 with a quietly narrowed window, reporting
+# the narrowing only in the "start" field of the body. Asking for START..today
+# in one call therefore returned a silent "last 18 months" total that happened
+# to look right only while every package was younger than the window. Chunking
+# below 18 months is what scripts/refresh-stats.mjs in the portfolio repo does;
+# the start-field check below makes it loud if that cap ever moves again.
+CHUNK_DAYS = 539
+
+
+def npm_total(pkg):
+    """All-time downloads for one package, summed over sub-18-month chunks."""
+    total = 0
+    start = datetime.date.fromisoformat(START)
+    today = datetime.date.today()
+    while start <= today:
+        end = min(today, start + datetime.timedelta(days=CHUNK_DAYS))
+        data = get_json(
+            f"https://api.npmjs.org/downloads/point/{start}:{end}/"
+            f"{urllib.parse.quote(pkg, safe='')}"
+        )
+        got = data.get("start")
+        if got != start.isoformat():
+            raise RuntimeError(
+                f"npm narrowed the range for {pkg}: asked {start}, got {got}. "
+                f"The API's range cap is now under {CHUNK_DAYS} days -- lower "
+                f"CHUNK_DAYS, or this total silently loses its earliest history."
+            )
+        total += data.get("downloads") or 0
+        start = end + datetime.timedelta(days=1)
+    return total
+
+
 def fetch_installs():
-    end = datetime.date.today().isoformat()
     total = 0
     for pkg in PACKAGES:
-        data = get_json(f"https://api.npmjs.org/downloads/range/{START}:{end}/{urllib.parse.quote(pkg, safe='')}")
-        n = sum(d["downloads"] for d in data["downloads"])
+        n = npm_total(pkg)
         print(f"  {pkg}: {n:,}")
         total += n
     return total

@@ -2,7 +2,7 @@ name: Contribution snake
 
 on:
   schedule:
-    - cron: '33 3 * * *'   # daily, 03:33 UTC
+    - cron: '32 12 * * *'  # daily, 12:32 UTC -> ~18:00 IST
   workflow_dispatch:
   push:
     paths:
