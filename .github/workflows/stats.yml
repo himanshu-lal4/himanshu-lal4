@@ -54,6 +54,10 @@ jobs:
         # "<svg"` check let an error page be committed twice. The script also
         # inlines the CSS these cards need, since GitHub strips <style> from
         # repo-served SVGs.
+        # The token lets it check the streak card's total against GitHub's own
+        # calendar - the service sometimes drops a whole year from the sum.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/mirror_cards.py
 
       - name: Commit if changed

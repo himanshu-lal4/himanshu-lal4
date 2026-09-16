@@ -26,6 +26,17 @@ escalates a card that has not refreshed in that long to a hard failure, and
 the activity graph itself is no longer mirrored at all -- it is drawn from
 GitHub's own API by scripts/gen_activity_graph.py.
 
+Partial totals
+--------------
+The streak service builds its all-time total by fetching one year at a time,
+and when one of those fetches fails it drops that year and renders the rest
+as if nothing happened. On 2026-09-15 it committed 1,267 -- every year but
+2024 -- while the summary card beside it read 2.23k. It has done the same
+before (1,184 on 09-09, 2,097 on 09-11) and the next run always healed it,
+but in between the README contradicted itself. Nothing in the SVG marks it as
+wrong, so the total is checked against GitHub's own contribution calendar,
+and a short one is treated like any other bad fetch.
+
 Sanitiser-proofing
 ------------------
 GitHub strips <style> from SVGs served out of a repo. Every one of these
@@ -58,6 +69,7 @@ STALE_DAYS = 5
 
 SUMMARY = "https://github-profile-summary-cards.vercel.app/api/cards"
 STREAK = "https://streak-stats.demolab.com/"
+GRAPHQL = "https://api.github.com/graphql"
 
 # Font stack the cards ask for, minus the Windows-only head so it degrades
 # sensibly on the Linux and macOS machines that actually render the README.
@@ -74,14 +86,80 @@ ERROR_MARKERS = (
     "Could not fetch",
 )
 
-def targets():
-    """(path, url) for every mirrored image."""
+def graphql(query, **variables):
+    req = urllib.request.Request(
+        GRAPHQL,
+        data=json.dumps({"query": query, "variables": variables}).encode(),
+        headers={"Authorization": f"bearer {os.environ['GITHUB_TOKEN']}",
+                 "Content-Type": "application/json",
+                 "User-Agent": "profile-card-mirror"},
+    )
+    with urllib.request.urlopen(req, timeout=30) as r:
+        body = json.load(r)
+    if "errors" in body:
+        raise RuntimeError(f"GitHub GraphQL error: {body['errors']}")
+    return body["data"]["user"]
+
+
+def contribution_floor():
+    """The lowest all-time total a correct streak card can show, or None.
+
+    The true total is the sum of every year's calendar, which is what the
+    streak service adds up. The service caches its render, so a good card can
+    trail by whatever landed since -- the last two days' contributions are
+    allowed for. A dropped year is far outside that.
+    """
+    if not os.environ.get("GITHUB_TOKEN"):
+        print("  GITHUB_TOKEN not set - streak total will not be checked")
+        return None
+    years = graphql(
+        "query($login:String!){user(login:$login){"
+        "contributionsCollection{contributionYears}}}",
+        login=USER)["contributionsCollection"]["contributionYears"]
+    fields = " ".join(
+        f'y{y}: contributionsCollection(from:"{y}-01-01T00:00:00Z", '
+        f'to:"{y}-12-31T23:59:59Z"){{contributionCalendar{{totalContributions}}}}'
+        for y in years)
+    now = datetime.datetime.now(datetime.timezone.utc)
+    user = graphql(
+        f"query($login:String!,$from:DateTime!,$to:DateTime!){{user(login:$login){{"
+        f"{fields} recent: contributionsCollection(from:$from, to:$to){{"
+        f"contributionCalendar{{totalContributions}}}}}}}}",
+        login=USER, to=now.isoformat(),
+        **{"from": (now - datetime.timedelta(days=2)).isoformat()})
+    total = sum(user[f"y{y}"]["contributionCalendar"]["totalContributions"]
+                for y in years)
+    recent = user["recent"]["contributionCalendar"]["totalContributions"]
+    print(f"  GitHub reports {total:,} contributions ({recent} in the last 2 days)")
+    return total - recent
+
+
+def streak_total_check(floor):
+    """A validator rejecting a streak card whose total is missing contributions."""
+    def check(body):
+        if floor is None:
+            return None
+        # The first number the card prints is the total contributions figure.
+        m = re.search(r">\s*([\d,]+)\s*<", body)
+        if not m:
+            return "no total contributions figure found"
+        shown = int(m.group(1).replace(",", ""))
+        if shown < floor:
+            return (f"total is {shown:,} but GitHub has at least {floor:,} - "
+                    f"the service dropped a year")
+        return None
+    return check
+
+
+def targets(floor):
+    """(path, url, check) for every mirrored image."""
     theme_pairs = (("dark", "github_dark"), ("light", "github"))
     for card, extra in (("profile-details", ""), ("stats", ""),
                         ("productive-time", f"&utcOffset={UTC_OFFSET}")):
         for suffix, theme in theme_pairs:
             yield (f"{CARD_DIR}/{card}-{suffix}.svg",
-                   f"{SUMMARY}/{card}?username={USER}&theme={theme}{extra}")
+                   f"{SUMMARY}/{card}?username={USER}&theme={theme}{extra}",
+                   None)
     # disable_animations is REQUIRED: the animated variant ships a <style>
     # block of opacity:0 rules that fade elements in. GitHub strips it from a
     # repo-served SVG, leaving every element at opacity 0 - an empty box.
@@ -90,10 +168,11 @@ def targets():
            f"&stroke=30363d&ring=F97316&fire=F97316&currStreakLabel=F97316"
            f"&sideLabels=8b949e&dates=8b949e&sideNums=8b949e"
            f"&currStreakNum=8b949e&excludeDaysLabel=8b949e"
-           f"&disable_animations=true")
+           f"&disable_animations=true",
+           streak_total_check(floor))
 
 
-def fetch(url, attempts=3):
+def fetch(url, check=None, attempts=3):
     """Return SVG text, or None if every attempt failed or looked like an error."""
     for attempt in range(1, attempts + 1):
         try:
@@ -110,6 +189,8 @@ def fetch(url, attempts=3):
                 print(f"    attempt {attempt}: service returned its error placeholder")
             elif len(body) < 500:
                 print(f"    attempt {attempt}: suspiciously small ({len(body)} bytes)")
+            elif check and (problem := check(body)):
+                print(f"    attempt {attempt}: {problem}")
             else:
                 return body
         if attempt < attempts:
@@ -158,11 +239,11 @@ def main():
     today = datetime.date.today()
     state = load_state()
     failures = []
-    for path, url in targets():
+    for path, url, check in targets(contribution_floor()):
         name = os.path.basename(path)
         os.makedirs(os.path.dirname(path), exist_ok=True)
         print(f"  {name}")
-        body = fetch(url)
+        body = fetch(url, check)
         if body is None:
             have = usable_copy(path)
             print(f"    FAILED - {'keeping previous copy' if have else 'NO USABLE PREVIOUS COPY'}")
